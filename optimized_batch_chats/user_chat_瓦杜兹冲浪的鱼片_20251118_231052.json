@@ -1,0 +1,314 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "10.25-10.26还能租吗，东莞",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659965"
+    },
+    {
+      "role": "seller",
+      "content": "你好",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659976"
+    },
+    {
+      "role": "seller",
+      "content": "可以的哦~",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659977"
+    },
+    {
+      "role": "seller",
+      "content": "您是在东莞哪里？近的话可以来自提哒宝子",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659978"
+    },
+    {
+      "role": "buyer",
+      "content": "已经租到啦 不好意思 谢谢",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659979"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈 好的好的",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659981"
+    },
+    {
+      "role": "buyer",
+      "content": "10.25-10.26还能租吗，东莞",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659982"
+    },
+    {
+      "role": "seller",
+      "content": "你好",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659983"
+    },
+    {
+      "role": "seller",
+      "content": "可以的哦~",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659984"
+    },
+    {
+      "role": "seller",
+      "content": "您是在东莞哪里？近的话可以来自提哒宝子",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659985"
+    },
+    {
+      "role": "buyer",
+      "content": "已经租到啦 不好意思 谢谢",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659986"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈 好的好的",
+      "timestamp": 1763477536.625,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659987"
+    },
+    {
+      "role": "buyer",
+      "content": "瓦杜兹冲浪的鱼片(b***v)闲鱼号...",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659988"
+    },
+    {
+      "role": "buyer",
+      "content": "10-22 13:0910.25-10.26还能租吗，东莞你好 已读可以的哦~已读你撤回了一条消息您是在东莞哪里？近的话可以来自提哒宝子已读10-22 13:17已经租到啦 不好意思 谢谢该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额哈哈 好的好的已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659989"
+    },
+    {
+      "role": "buyer",
+      "content": "10.25-10.26还能租吗，东莞",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659990"
+    },
+    {
+      "role": "buyer",
+      "content": "10.25-10.26还能租吗，东莞",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659991"
+    },
+    {
+      "role": "buyer",
+      "content": "10.25-10.26还能租吗，东莞",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659992"
+    },
+    {
+      "role": "seller",
+      "content": "你好 已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659993"
+    },
+    {
+      "role": "seller",
+      "content": "你好 已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659994"
+    },
+    {
+      "role": "seller",
+      "content": "你好",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659995"
+    },
+    {
+      "role": "seller",
+      "content": "可以的哦~已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659996"
+    },
+    {
+      "role": "seller",
+      "content": "可以的哦~已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659997"
+    },
+    {
+      "role": "seller",
+      "content": "可以的哦~",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659997"
+    },
+    {
+      "role": "seller",
+      "content": "您是在东莞哪里？近的话可以来自提哒宝子已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659998"
+    },
+    {
+      "role": "seller",
+      "content": "您是在东莞哪里？近的话可以来自提哒宝子已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.659999"
+    },
+    {
+      "role": "seller",
+      "content": "您是在东莞哪里？近的话可以来自提哒宝子",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660000"
+    },
+    {
+      "role": "buyer",
+      "content": "已经租到啦 不好意思 谢谢",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660001"
+    },
+    {
+      "role": "buyer",
+      "content": "已经租到啦 不好意思 谢谢",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660002"
+    },
+    {
+      "role": "buyer",
+      "content": "已经租到啦 不好意思 谢谢",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660003"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈 好的好的已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660004"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈 好的好的已读",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660005"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈 好的好的",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660006"
+    },
+    {
+      "role": "seller",
+      "content": "你撤回了一条消息",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660007"
+    },
+    {
+      "role": "seller",
+      "content": "该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额",
+      "timestamp": 1763477536.626,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:16.660008"
+    }
+  ],
+  "message_count": 34,
+  "crawl_time": "2025-11-18T22:52:16.661710",
+  "source": "browser_automation"
+}

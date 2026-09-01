@@ -1,0 +1,629 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032686"
+    },
+    {
+      "role": "seller",
+      "content": "细节图发一下给你",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032695"
+    },
+    {
+      "role": "buyer",
+      "content": "看不到啊",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032697"
+    },
+    {
+      "role": "seller",
+      "content": "看不到吗",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032699"
+    },
+    {
+      "role": "seller",
+      "content": "有磨损的就是如图的这几个地方了哈 其他的都没有了",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032701"
+    },
+    {
+      "role": "buyer",
+      "content": "这里是哪里？看不出来啊？",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032703"
+    },
+    {
+      "role": "seller",
+      "content": "这个位置的~",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032705"
+    },
+    {
+      "role": "buyer",
+      "content": "不明白看不出来",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032706"
+    },
+    {
+      "role": "buyer",
+      "content": "5s",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032708"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032710"
+    },
+    {
+      "role": "seller",
+      "content": "细节图发一下给你",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032711"
+    },
+    {
+      "role": "buyer",
+      "content": "看不到啊",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032713"
+    },
+    {
+      "role": "seller",
+      "content": "看不到吗",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032714"
+    },
+    {
+      "role": "seller",
+      "content": "有磨损的就是如图的这几个地方了哈 其他的都没有了",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032716"
+    },
+    {
+      "role": "buyer",
+      "content": "这里是哪里？看不出来啊？",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032718"
+    },
+    {
+      "role": "seller",
+      "content": "这个位置的~",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032719"
+    },
+    {
+      "role": "buyer",
+      "content": "不明白看不出来",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032720"
+    },
+    {
+      "role": "buyer",
+      "content": "5s",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032722"
+    },
+    {
+      "role": "buyer",
+      "content": "当代跳脚陈皮(x***6)闲鱼号...",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032724"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032725"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032727"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032729"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032730"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032732"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032733"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032735"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032736"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032738"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032740"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032741"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032743"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032744"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032746"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032747"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032749"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032751"
+    },
+    {
+      "role": "seller",
+      "content": "细节图发一下给你已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032753"
+    },
+    {
+      "role": "seller",
+      "content": "细节图发一下给你已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032754"
+    },
+    {
+      "role": "seller",
+      "content": "细节图发一下给你",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032756"
+    },
+    {
+      "role": "buyer",
+      "content": "看不到啊",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032757"
+    },
+    {
+      "role": "buyer",
+      "content": "看不到啊",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032759"
+    },
+    {
+      "role": "buyer",
+      "content": "看不到啊",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032761"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览看不到吗已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032763"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览看不到吗已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032764"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览看不到吗",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032766"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032767"
+    },
+    {
+      "role": "seller",
+      "content": "有磨损的就是如图的这几个地方了哈 其他的都没有了已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032769"
+    },
+    {
+      "role": "seller",
+      "content": "有磨损的就是如图的这几个地方了哈 其他的都没有了已读",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032771"
+    },
+    {
+      "role": "seller",
+      "content": "有磨损的就是如图的这几个地方了哈 其他的都没有了",
+      "timestamp": 1763477568.924,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032772"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032774"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032775"
+    },
+    {
+      "role": "buyer",
+      "content": "这里是哪里？看不出来啊？",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032777"
+    },
+    {
+      "role": "buyer",
+      "content": "这里是哪里？看不出来啊？",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032778"
+    },
+    {
+      "role": "buyer",
+      "content": "这里是哪里？看不出来啊？",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032780"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032781"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032783"
+    },
+    {
+      "role": "seller",
+      "content": "这个位置的~已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032785"
+    },
+    {
+      "role": "seller",
+      "content": "这个位置的~已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032786"
+    },
+    {
+      "role": "seller",
+      "content": "这个位置的~",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032787"
+    },
+    {
+      "role": "buyer",
+      "content": "不明白看不出来",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032789"
+    },
+    {
+      "role": "buyer",
+      "content": "不明白看不出来",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032790"
+    },
+    {
+      "role": "buyer",
+      "content": "不明白看不出来",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032792"
+    },
+    {
+      "role": "buyer",
+      "content": "5s",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032793"
+    },
+    {
+      "role": "buyer",
+      "content": "5s",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032794"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032796"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走已读",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032798"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032799"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032800"
+    },
+    {
+      "role": "seller",
+      "content": "请在15分钟内付款，避免宝贝被其他人抢走",
+      "timestamp": 1763477568.925,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:49.032802"
+    }
+  ],
+  "message_count": 69,
+  "crawl_time": "2025-11-18T22:52:49.036767",
+  "source": "browser_automation"
+}

@@ -1,0 +1,404 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "okk",
+      "timestamp": 1763477778.846,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975840"
+    },
+    {
+      "role": "seller",
+      "content": "okk",
+      "timestamp": 1763477778.846,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975855"
+    },
+    {
+      "role": "buyer",
+      "content": "全是柚子茶(x***6)闲鱼号...",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975859"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975863"
+    },
+    {
+      "role": "buyer",
+      "content": "08-23 19:19okk已读我已付款，等待你发货请包装好商品，并按我在闲鱼上提供的地址发货去发货在线寄件运费【立减2元】 点击预约快递09-09 09:54你已发货09-12 00:00请确认商品寄回地址请尽快确认商品寄回地址 去确认09-15 00:00租期结束，请尽快寄回商品请和卖家确认地址后寄回未读09-15 10:46买家已寄回09-22 10:50请确认退回金额我已验货完成，请尽快确认未读买家已确认退回金额，交易成功09-22 10:55我完成了评价期待你的评价去评价09-22 11:37我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975866"
+    },
+    {
+      "role": "seller",
+      "content": "okk已读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975870"
+    },
+    {
+      "role": "seller",
+      "content": "okk已读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975873"
+    },
+    {
+      "role": "seller",
+      "content": "okk",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975876"
+    },
+    {
+      "role": "buyer",
+      "content": "我已付款，等待你发货请包装好商品，并按我在闲鱼上提供的地址发货去发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975879"
+    },
+    {
+      "role": "buyer",
+      "content": "我已付款，等待你发货请包装好商品，并按我在闲鱼上提供的地址发货去发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975882"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975885"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975889"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认未读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975892"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认未读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975895"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975898"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975901"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975904"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975907"
+    },
+    {
+      "role": "buyer",
+      "content": "我已付款，等待你发货请包装好商品，并按我在闲鱼上提供的地址发货去发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975911"
+    },
+    {
+      "role": "buyer",
+      "content": "我已付款，等待你发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975914"
+    },
+    {
+      "role": "buyer",
+      "content": "请包装好商品，并按我在闲鱼上提供的地址发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975917"
+    },
+    {
+      "role": "seller",
+      "content": "去发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975920"
+    },
+    {
+      "role": "seller",
+      "content": "去发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975923"
+    },
+    {
+      "role": "seller",
+      "content": "在线寄件运费【立减2元】 点击预约快递",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975926"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975929"
+    },
+    {
+      "role": "buyer",
+      "content": "请确认商品寄回地址请尽快确认商品寄回地址 去确认",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975932"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975935"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975938"
+    },
+    {
+      "role": "seller",
+      "content": "请和卖家确认地址后寄回",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975942"
+    },
+    {
+      "role": "seller",
+      "content": "买家已寄回",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975945"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975948"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975951"
+    },
+    {
+      "role": "seller",
+      "content": "我已验货完成，请尽快确认",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975954"
+    },
+    {
+      "role": "seller",
+      "content": "买家已确认退回金额，交易成功",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975957"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975960"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975963"
+    },
+    {
+      "role": "buyer",
+      "content": "期待你的评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975966"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975969"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975972"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975974"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975977"
+    },
+    {
+      "role": "seller",
+      "content": "已完成互评，可以查看评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975981"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975984"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763477778.847,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:56:18.975987"
+    }
+  ],
+  "message_count": 44,
+  "crawl_time": "2025-11-18T22:56:18.982700",
+  "source": "browser_automation"
+}

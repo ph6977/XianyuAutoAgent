@@ -1,0 +1,476 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "👌🏻",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666802"
+    },
+    {
+      "role": "seller",
+      "content": "好哒",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666816"
+    },
+    {
+      "role": "seller",
+      "content": "宝子 我找一下您 发免押给您哈",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666820"
+    },
+    {
+      "role": "seller",
+      "content": "租机科技小小金是我~",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666823"
+    },
+    {
+      "role": "buyer",
+      "content": "哪里？",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666826"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666829"
+    },
+    {
+      "role": "buyer",
+      "content": "👌🏻",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666832"
+    },
+    {
+      "role": "seller",
+      "content": "好哒",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666835"
+    },
+    {
+      "role": "seller",
+      "content": "宝子 我找一下您 发免押给您哈",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666838"
+    },
+    {
+      "role": "seller",
+      "content": "租机科技小小金是我~",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666840"
+    },
+    {
+      "role": "buyer",
+      "content": "哪里？",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666843"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763477624.547,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666846"
+    },
+    {
+      "role": "buyer",
+      "content": "荡秋千的风1(t***3)闲鱼号...",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666849"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666851"
+    },
+    {
+      "role": "buyer",
+      "content": "09-23 22:30👌🏻好哒已读宝子 我找一下您 发免押给您哈已读租机科技小小金是我~已读哪里？09-25 10:52你已发货09-30 00:00请确认商品寄回地址请尽快确认商品寄回地址 去确认10-03 00:00租期结束，请尽快寄回商品请和卖家确认地址后寄回未读10-03 10:56买家已寄回10-07 17:58我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额10-08 09:28请确认退回金额我已验货完成，请尽快确认未读10-09 09:28买家已确认退回金额，交易成功10-09 16:34宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666854"
+    },
+    {
+      "role": "buyer",
+      "content": "👌🏻",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666856"
+    },
+    {
+      "role": "buyer",
+      "content": "👌🏻",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666859"
+    },
+    {
+      "role": "buyer",
+      "content": "👌🏻",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666862"
+    },
+    {
+      "role": "seller",
+      "content": "好哒已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666865"
+    },
+    {
+      "role": "seller",
+      "content": "好哒已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666867"
+    },
+    {
+      "role": "seller",
+      "content": "好哒",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666870"
+    },
+    {
+      "role": "seller",
+      "content": "宝子 我找一下您 发免押给您哈已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666872"
+    },
+    {
+      "role": "seller",
+      "content": "宝子 我找一下您 发免押给您哈已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666875"
+    },
+    {
+      "role": "seller",
+      "content": "宝子 我找一下您 发免押给您哈",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666877"
+    },
+    {
+      "role": "seller",
+      "content": "租机科技小小金是我~已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666880"
+    },
+    {
+      "role": "seller",
+      "content": "租机科技小小金是我~已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666883"
+    },
+    {
+      "role": "seller",
+      "content": "租机科技小小金是我~",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666885"
+    },
+    {
+      "role": "buyer",
+      "content": "哪里？",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666888"
+    },
+    {
+      "role": "buyer",
+      "content": "哪里？",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666890"
+    },
+    {
+      "role": "buyer",
+      "content": "哪里？",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666893"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666896"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666899"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666901"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666905"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认未读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666907"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认未读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666910"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666912"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666915"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666917"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666919"
+    },
+    {
+      "role": "buyer",
+      "content": "请确认商品寄回地址请尽快确认商品寄回地址 去确认",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666922"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666925"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666927"
+    },
+    {
+      "role": "seller",
+      "content": "请和卖家确认地址后寄回",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666930"
+    },
+    {
+      "role": "seller",
+      "content": "买家已寄回",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666932"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666934"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666937"
+    },
+    {
+      "role": "buyer",
+      "content": "您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666939"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666942"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666944"
+    },
+    {
+      "role": "seller",
+      "content": "我已验货完成，请尽快确认",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666946"
+    },
+    {
+      "role": "seller",
+      "content": "买家已确认退回金额，交易成功",
+      "timestamp": 1763477624.548,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:44.666948"
+    }
+  ],
+  "message_count": 52,
+  "crawl_time": "2025-11-18T22:53:44.670913",
+  "source": "browser_automation"
+}

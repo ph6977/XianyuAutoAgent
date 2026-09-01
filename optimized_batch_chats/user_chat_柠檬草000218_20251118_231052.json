@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "8.23有吗？",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644404"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644414"
+    },
+    {
+      "role": "seller",
+      "content": "你好 目前这个档期租完了哦~",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644417"
+    },
+    {
+      "role": "buyer",
+      "content": "8.23有吗？",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644420"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644422"
+    },
+    {
+      "role": "seller",
+      "content": "你好 目前这个档期租完了哦~",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644424"
+    },
+    {
+      "role": "buyer",
+      "content": "柠檬草000218(刘***8)闲鱼号...",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644426"
+    },
+    {
+      "role": "buyer",
+      "content": "08-20 01:268.23有吗？亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读08-20 09:41你好 目前这个档期租完了哦~已读",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644428"
+    },
+    {
+      "role": "buyer",
+      "content": "8.23有吗？",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644429"
+    },
+    {
+      "role": "buyer",
+      "content": "8.23有吗？",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644431"
+    },
+    {
+      "role": "buyer",
+      "content": "8.23有吗？",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644433"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644434"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644436"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644437"
+    },
+    {
+      "role": "seller",
+      "content": "你好 目前这个档期租完了哦~已读",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644439"
+    },
+    {
+      "role": "seller",
+      "content": "你好 目前这个档期租完了哦~已读",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644440"
+    },
+    {
+      "role": "seller",
+      "content": "你好 目前这个档期租完了哦~",
+      "timestamp": 1763478333.62,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:05:33.644442"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T23:05:33.646620",
+  "source": "browser_automation"
+}

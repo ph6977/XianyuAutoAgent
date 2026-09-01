@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "你好23号有档期么",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468623"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468632"
+    },
+    {
+      "role": "seller",
+      "content": "没有了噢宝子",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468633"
+    },
+    {
+      "role": "buyer",
+      "content": "你好23号有档期么",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468634"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468635"
+    },
+    {
+      "role": "seller",
+      "content": "没有了噢宝子",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468636"
+    },
+    {
+      "role": "buyer",
+      "content": "景龙池勤劳的香芋(t***1)闲鱼号...",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468637"
+    },
+    {
+      "role": "buyer",
+      "content": "15:07你好23号有档期么亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读没有了噢宝子已读",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468638"
+    },
+    {
+      "role": "buyer",
+      "content": "你好23号有档期么",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468639"
+    },
+    {
+      "role": "buyer",
+      "content": "你好23号有档期么",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468640"
+    },
+    {
+      "role": "buyer",
+      "content": "你好23号有档期么",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468641"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468641"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468642"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468643"
+    },
+    {
+      "role": "seller",
+      "content": "没有了噢宝子已读",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468644"
+    },
+    {
+      "role": "seller",
+      "content": "没有了噢宝子已读",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468645"
+    },
+    {
+      "role": "seller",
+      "content": "没有了噢宝子",
+      "timestamp": 1763478561.46,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:21.468646"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T23:09:21.470270",
+  "source": "browser_automation"
+}

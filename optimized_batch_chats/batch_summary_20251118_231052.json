@@ -1,0 +1,505 @@
+{
+  "batch_info": {
+    "total_users": 83,
+    "successful_users": 81,
+    "failed_users": 2,
+    "crawl_time": "2025-11-18T23:10:52.359064",
+    "timestamp": "20251118_231052"
+  },
+  "user_results": {
+    "洒脱的奇奇": {
+      "user_nickname": "洒脱的奇奇",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:45:49.865147"
+    },
+    "玩转超级擦亮": {
+      "user_nickname": "玩转超级擦亮",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:46:00.729881"
+    },
+    "用户_87209626": {
+      "user_nickname": "用户_87209626",
+      "message_count": 49,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:46:11.388935"
+    },
+    "落雪de天空": {
+      "user_nickname": "落雪de天空",
+      "message_count": 39,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:46:22.042958"
+    },
+    "Mario": {
+      "user_nickname": "Mario",
+      "message_count": 37,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:46:32.666942"
+    },
+    "该用户已注销": {
+      "user_nickname": "该用户已注销",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:47:06.568054"
+    },
+    "北周兴奋的茼蒿": {
+      "user_nickname": "北周兴奋的茼蒿",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:47:17.417491"
+    },
+    "茶鵺叶夜耶": {
+      "user_nickname": "茶鵺叶夜耶",
+      "message_count": 81,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:47:28.079034"
+    },
+    "狗头都金丝": {
+      "user_nickname": "狗头都金丝",
+      "message_count": 36,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:48:01.996669"
+    },
+    "春日颂歌": {
+      "user_nickname": "春日颂歌",
+      "message_count": 38,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:48:12.905116"
+    },
+    "TB_65559043": {
+      "user_nickname": "TB_65559043",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:48:23.817500"
+    },
+    "+巴扎嘿-": {
+      "user_nickname": "+巴扎嘿-",
+      "message_count": 33,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:48:34.714297"
+    },
+    "流萤^-^": {
+      "user_nickname": "流萤^-^",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:49:08.605691"
+    },
+    "我妈盒女一": {
+      "user_nickname": "我妈盒女一",
+      "message_count": 34,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:49:19.485686"
+    },
+    "SRR鑫源": {
+      "user_nickname": "SRR鑫源",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:49:30.433441"
+    },
+    "山茶花的英": {
+      "user_nickname": "山茶花的英",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:49:41.269374"
+    },
+    "努力的丹姐": {
+      "user_nickname": "努力的丹姐",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:50:15.196164"
+    },
+    "芋泥啵啵": {
+      "user_nickname": "芋泥啵啵",
+      "message_count": 45,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:50:25.807837"
+    },
+    "旭20081008": {
+      "user_nickname": "旭20081008",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:50:36.639668"
+    },
+    "Tmh22": {
+      "user_nickname": "Tmh22",
+      "message_count": 87,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:50:47.364348"
+    },
+    "取名字太难了我想不出": {
+      "user_nickname": "取名字太难了我想不出",
+      "message_count": 42,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:51:21.364017"
+    },
+    "出王者号": {
+      "user_nickname": "出王者号",
+      "message_count": 7,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:51:32.188932"
+    },
+    "足球城积极的桔梗": {
+      "user_nickname": "足球城积极的桔梗",
+      "message_count": 81,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:51:42.800739"
+    },
+    "瓦杜兹冲浪的鱼片": {
+      "user_nickname": "瓦杜兹冲浪的鱼片",
+      "message_count": 34,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:52:16.661710"
+    },
+    "巴黎游泳芦丁": {
+      "user_nickname": "巴黎游泳芦丁",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:52:27.552923"
+    },
+    "t***2": {
+      "user_nickname": "t***2",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:52:38.381715"
+    },
+    "当代跳脚陈皮": {
+      "user_nickname": "当代跳脚陈皮",
+      "message_count": 69,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:52:49.036767"
+    },
+    "小严很温柔": {
+      "user_nickname": "小严很温柔",
+      "message_count": 37,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:52:59.665486"
+    },
+    "专业广告制作": {
+      "user_nickname": "专业广告制作",
+      "message_count": 40,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:53:10.675985"
+    },
+    "荡秋千的风1": {
+      "user_nickname": "荡秋千的风1",
+      "message_count": 52,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:53:44.670913"
+    },
+    "已读不回丨": {
+      "user_nickname": "已读不回丨",
+      "message_count": 28,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:53:55.584332"
+    },
+    "TB_52723377": {
+      "user_nickname": "TB_52723377",
+      "message_count": 18,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:54:06.430647"
+    },
+    "用户_57025200": {
+      "user_nickname": "用户_57025200",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:54:17.323721"
+    },
+    "安德礼品坊": {
+      "user_nickname": "安德礼品坊",
+      "message_count": 24,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:54:51.226271"
+    },
+    "不爱睡觉的小仙女0719": {
+      "user_nickname": "不爱睡觉的小仙女0719",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:55:02.062078"
+    },
+    "TB_26668148": {
+      "user_nickname": "TB_26668148",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:55:12.900170"
+    },
+    "番茄鱼x": {
+      "user_nickname": "番茄鱼x",
+      "message_count": 34,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:55:46.772067"
+    },
+    "贫穷的小张^-^": {
+      "user_nickname": "贫穷的小张^-^",
+      "message_count": 43,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:55:57.683895"
+    },
+    "幸运浣熊": {
+      "user_nickname": "幸运浣熊",
+      "message_count": 35,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:56:08.292850"
+    },
+    "全是柚子茶": {
+      "user_nickname": "全是柚子茶",
+      "message_count": 44,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:56:18.982700"
+    },
+    "x***4": {
+      "user_nickname": "x***4",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:56:52.950474"
+    },
+    "亓遇yu": {
+      "user_nickname": "亓遇yu",
+      "message_count": 27,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:57:03.843515"
+    },
+    "用户_67594151": {
+      "user_nickname": "用户_67594151",
+      "message_count": 27,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:57:37.866792"
+    },
+    "汐农宝宝": {
+      "user_nickname": "汐农宝宝",
+      "message_count": 27,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:57:48.788047"
+    },
+    "x***3": {
+      "user_nickname": "x***3",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:57:59.660053"
+    },
+    "小小丸子叮叮当": {
+      "user_nickname": "小小丸子叮叮当",
+      "message_count": 96,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:58:10.842061"
+    },
+    "余秋雨白": {
+      "user_nickname": "余秋雨白",
+      "message_count": 24,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:58:44.811070"
+    },
+    "植物园打哈欠的榛子": {
+      "user_nickname": "植物园打哈欠的榛子",
+      "message_count": 78,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:58:55.779306"
+    },
+    "一只绵羊兔": {
+      "user_nickname": "一只绵羊兔",
+      "message_count": 78,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:59:06.697397"
+    },
+    "YOLO": {
+      "user_nickname": "YOLO",
+      "message_count": 35,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:59:17.260484"
+    },
+    "x***2": {
+      "user_nickname": "x***2",
+      "message_count": 85,
+      "status": "success",
+      "crawl_time": "2025-11-18T22:59:51.281796"
+    },
+    "小狗眨眨眼": {
+      "user_nickname": "小狗眨眨眼",
+      "message_count": 39,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:00:01.959107"
+    },
+    "89LX": {
+      "user_nickname": "89LX",
+      "message_count": 43,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:00:12.692899"
+    },
+    "频繁了已改价接受可直接拍": {
+      "user_nickname": "频繁了已改价接受可直接拍",
+      "message_count": 46,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:00:23.381088"
+    },
+    "居上不易": {
+      "user_nickname": "居上不易",
+      "message_count": 12,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:00:34.311902"
+    },
+    "数码宝库": {
+      "user_nickname": "数码宝库",
+      "message_count": 27,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:01:08.270750"
+    },
+    "果然星罕见的陈皮": {
+      "user_nickname": "果然星罕见的陈皮",
+      "message_count": 42,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:01:18.877695"
+    },
+    "葡萄冰冰冰": {
+      "user_nickname": "葡萄冰冰冰",
+      "message_count": 39,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:01:29.531158"
+    },
+    "小醒卷心菜": {
+      "user_nickname": "小醒卷心菜",
+      "message_count": 35,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:01:40.217193"
+    },
+    "一颗糰籽小小汐": {
+      "user_nickname": "一颗糰籽小小汐",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:02:14.175922"
+    },
+    "123321": {
+      "user_nickname": "123321",
+      "message_count": 42,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:02:25.039533"
+    },
+    "Homieen": {
+      "user_nickname": "Homieen",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:02:35.883718"
+    },
+    "KK要开心": {
+      "user_nickname": "KK要开心",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:02:46.736876"
+    },
+    "小狗拯救世界": {
+      "user_nickname": "小狗拯救世界",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:03:20.588655"
+    },
+    "natin780": {
+      "user_nickname": "natin780",
+      "message_count": 18,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:03:31.432047"
+    },
+    "又要威又要戴头盔啊": {
+      "user_nickname": "又要威又要戴头盔啊",
+      "message_count": 99,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:03:42.616171"
+    },
+    "没问题请及时确收哦": {
+      "user_nickname": "没问题请及时确收哦",
+      "message_count": 24,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:03:53.460642"
+    },
+    "真的睡不醒_": {
+      "user_nickname": "真的睡不醒_",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:04:27.288136"
+    },
+    "绯子芽极": {
+      "user_nickname": "绯子芽极",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:04:38.093150"
+    },
+    "等你说晚安": {
+      "user_nickname": "等你说晚安",
+      "message_count": 18,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:04:48.936201"
+    },
+    "我爱睡觉": {
+      "user_nickname": "我爱睡觉",
+      "message_count": 29,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:04:59.768501"
+    },
+    "柠檬草000218": {
+      "user_nickname": "柠檬草000218",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:05:33.646620"
+    },
+    "你给我让一让": {
+      "status": "failed",
+      "error": "未能获取聊天记录"
+    },
+    "风吹年年_": {
+      "status": "failed",
+      "error": "未能获取聊天记录"
+    },
+    "景龙池勤劳的香芋": {
+      "user_nickname": "景龙池勤劳的香芋",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:09:21.470270"
+    },
+    "julie0791": {
+      "user_nickname": "julie0791",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:09:34.792447"
+    },
+    "Qnawil_": {
+      "user_nickname": "Qnawil_",
+      "message_count": 53,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:09:45.732102"
+    },
+    "巨石星出馊主意的荆芥": {
+      "user_nickname": "巨石星出馊主意的荆芥",
+      "message_count": 20,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:09:56.616322"
+    },
+    "心之所向??素履所往": {
+      "user_nickname": "心之所向??素履所往",
+      "message_count": 95,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:10:07.609168"
+    },
+    "Yu.Yan": {
+      "user_nickname": "Yu.Yan",
+      "message_count": 47,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:10:19.939107"
+    },
+    "想不出名字": {
+      "user_nickname": "想不出名字",
+      "message_count": 42,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:10:30.772908"
+    },
+    "澍即及时雨": {
+      "user_nickname": "澍即及时雨",
+      "message_count": 22,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:10:41.576512"
+    },
+    "修勾OvO": {
+      "user_nickname": "修勾OvO",
+      "message_count": 17,
+      "status": "success",
+      "crawl_time": "2025-11-18T23:10:52.354298"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+# 闲鱼自动客服机器人依赖包
+
+# 核心依赖
+openai>=1.65.5
+websockets>=13.1
+loguru>=0.7.3
+python-dotenv>=1.0.1
+requests>=2.32.3
+
+# 浏览器自动化
+playwright>=1.49.1
+
+# 数据处理
+pandas>=2.0.0
+
+# 飞书API
+larksuite-oapi>=0.0.12

@@ -1,0 +1,350 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "深圳罗湖十五号",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898850"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898858"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898860"
+    },
+    {
+      "role": "buyer",
+      "content": "有没有档期",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898862"
+    },
+    {
+      "role": "buyer",
+      "content": "急急急",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898864"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898866"
+    },
+    {
+      "role": "seller",
+      "content": "mini90本周档期租完啦宝~剩一台mini11",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898867"
+    },
+    {
+      "role": "buyer",
+      "content": "深圳罗湖十五号",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898869"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898870"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898872"
+    },
+    {
+      "role": "buyer",
+      "content": "有没有档期",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898874"
+    },
+    {
+      "role": "buyer",
+      "content": "急急急",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898875"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898877"
+    },
+    {
+      "role": "seller",
+      "content": "mini90本周档期租完啦宝~剩一台mini11",
+      "timestamp": 1763477292.843,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898879"
+    },
+    {
+      "role": "buyer",
+      "content": "春日颂歌(d***6)闲鱼号...",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898880"
+    },
+    {
+      "role": "buyer",
+      "content": "11-12 22:48深圳罗湖十五号亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读11-12 23:16你好有没有档期急急急11-13 09:08你好~未读你撤回了一条消息mini90本周档期租完啦宝~剩一台mini11未读",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898882"
+    },
+    {
+      "role": "buyer",
+      "content": "深圳罗湖十五号",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898883"
+    },
+    {
+      "role": "buyer",
+      "content": "深圳罗湖十五号",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898885"
+    },
+    {
+      "role": "buyer",
+      "content": "深圳罗湖十五号",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898886"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898888"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898889"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898891"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477292.844,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898893"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898894"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898896"
+    },
+    {
+      "role": "buyer",
+      "content": "有没有档期",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898897"
+    },
+    {
+      "role": "buyer",
+      "content": "有没有档期",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898899"
+    },
+    {
+      "role": "buyer",
+      "content": "有没有档期",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898900"
+    },
+    {
+      "role": "buyer",
+      "content": "急急急",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898902"
+    },
+    {
+      "role": "buyer",
+      "content": "急急急",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898903"
+    },
+    {
+      "role": "buyer",
+      "content": "急急急",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898905"
+    },
+    {
+      "role": "seller",
+      "content": "你好~未读",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898906"
+    },
+    {
+      "role": "seller",
+      "content": "你好~未读",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898907"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898909"
+    },
+    {
+      "role": "seller",
+      "content": "mini90本周档期租完啦宝~剩一台mini11未读",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898910"
+    },
+    {
+      "role": "seller",
+      "content": "mini90本周档期租完啦宝~剩一台mini11未读",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898912"
+    },
+    {
+      "role": "seller",
+      "content": "mini90本周档期租完啦宝~剩一台mini11",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898913"
+    },
+    {
+      "role": "seller",
+      "content": "你撤回了一条消息",
+      "timestamp": 1763477292.845,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:12.898914"
+    }
+  ],
+  "message_count": 38,
+  "crawl_time": "2025-11-18T22:48:12.905116",
+  "source": "browser_automation"
+}

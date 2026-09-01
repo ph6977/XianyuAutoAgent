@@ -1,0 +1,341 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "机子已发出正在等待揽收",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664091"
+    },
+    {
+      "role": "seller",
+      "content": "1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664100"
+    },
+    {
+      "role": "buyer",
+      "content": "好的",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664103"
+    },
+    {
+      "role": "seller",
+      "content": "机子已发出正在等待揽收",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664104"
+    },
+    {
+      "role": "seller",
+      "content": "1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664106"
+    },
+    {
+      "role": "buyer",
+      "content": "好的",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664108"
+    },
+    {
+      "role": "buyer",
+      "content": "Mario(x***5)闲鱼号...",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664109"
+    },
+    {
+      "role": "seller",
+      "content": "验货通过",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664111"
+    },
+    {
+      "role": "buyer",
+      "content": "11-13 14:51图片预览已读图片预览已读图片预览已读图片预览已读图片预览已读已读你已发货机子已发出正在等待揽收[玫瑰]\n1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租已读好的此消息不支持在PC端浏览，请到APP上查看已读11-14 00:00请确认商品寄回地址请尽快确认商品寄回地址 去确认昨天 00:00租期结束，请尽快寄回商品请和卖家确认地址后寄回未读昨天 15:37买家已寄回",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664113"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664115"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664117"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664118"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664120"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664121"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664123"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664124"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664126"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664128"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664129"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664130"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664132"
+    },
+    {
+      "role": "seller",
+      "content": "机子已发出正在等待揽收[玫瑰]\n1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664134"
+    },
+    {
+      "role": "seller",
+      "content": "机子已发出正在等待揽收[玫瑰]\n1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664135"
+    },
+    {
+      "role": "seller",
+      "content": "机子已发出正在等待揽收[玫瑰]\n1.🔋快递运输建议电池不能满电运输，收到之后需自行充电使用。\n\n2.📦收到和寄回请拍摄开箱以及封箱视频，自行保留备用；寄回时对照寄出前的物品清单避免遗漏。\n\n3.⚠️读卡器尽量使用配备的USB读卡器或相机无线传输功能，使用转换器有风险，若使用转换器直传手机，造成数据丢失、烧卡须自行承担后果。\n\n4.📦寄回请使用顺丰快递保价寄回，若使用其他快递寄回，运输时效将计入实际租",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664137"
+    },
+    {
+      "role": "buyer",
+      "content": "好的",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664138"
+    },
+    {
+      "role": "buyer",
+      "content": "好的",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664140"
+    },
+    {
+      "role": "buyer",
+      "content": "好的",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664141"
+    },
+    {
+      "role": "seller",
+      "content": "此消息不支持在PC端浏览，请到APP上查看已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664143"
+    },
+    {
+      "role": "seller",
+      "content": "此消息不支持在PC端浏览，请到APP上查看已读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664144"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664146"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回未读",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664147"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664148"
+    },
+    {
+      "role": "buyer",
+      "content": "请确认商品寄回地址请尽快确认商品寄回地址 去确认",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664150"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品请和卖家确认地址后寄回",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664152"
+    },
+    {
+      "role": "seller",
+      "content": "租期结束，请尽快寄回商品",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664153"
+    },
+    {
+      "role": "seller",
+      "content": "请和卖家确认地址后寄回",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664155"
+    },
+    {
+      "role": "seller",
+      "content": "买家已寄回",
+      "timestamp": 1763477192.589,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:32.664156"
+    }
+  ],
+  "message_count": 37,
+  "crawl_time": "2025-11-18T22:46:32.666942",
+  "source": "browser_automation"
+}

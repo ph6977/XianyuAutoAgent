@@ -1,0 +1,899 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614139"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614148"
+    },
+    {
+      "role": "buyer",
+      "content": "什么价格",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614150"
+    },
+    {
+      "role": "seller",
+      "content": "要具体看看是什么地址才知道噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614152"
+    },
+    {
+      "role": "buyer",
+      "content": "虎门太平广场附近",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614154"
+    },
+    {
+      "role": "buyer",
+      "content": "你看下这个费用",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614156"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿大概是70左右 顺丰半日达用了券后大概是50左右",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614158"
+    },
+    {
+      "role": "buyer",
+      "content": "这么贵",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614159"
+    },
+    {
+      "role": "buyer",
+      "content": "自提在东城吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614161"
+    },
+    {
+      "role": "seller",
+      "content": "是滴",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614163"
+    },
+    {
+      "role": "seller",
+      "content": "半日达是比较贵 距离有点远",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614164"
+    },
+    {
+      "role": "seller",
+      "content": "然后可能天气问题 下雨天也会贵点",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614166"
+    },
+    {
+      "role": "buyer",
+      "content": "今天不是大太阳吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614167"
+    },
+    {
+      "role": "seller",
+      "content": "东城这边下雨啦 黑天了",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614169"
+    },
+    {
+      "role": "buyer",
+      "content": "东城什么位置",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614170"
+    },
+    {
+      "role": "seller",
+      "content": "星河城",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614172"
+    },
+    {
+      "role": "buyer",
+      "content": "请问半日达几点前要寄出才能当天到 你们几点下班",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614174"
+    },
+    {
+      "role": "seller",
+      "content": "这个不太好说~",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614175"
+    },
+    {
+      "role": "seller",
+      "content": "目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614177"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614179"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614180"
+    },
+    {
+      "role": "buyer",
+      "content": "什么价格",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614182"
+    },
+    {
+      "role": "seller",
+      "content": "要具体看看是什么地址才知道噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614183"
+    },
+    {
+      "role": "buyer",
+      "content": "虎门太平广场附近",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614185"
+    },
+    {
+      "role": "buyer",
+      "content": "你看下这个费用",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614187"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿大概是70左右 顺丰半日达用了券后大概是50左右",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614188"
+    },
+    {
+      "role": "buyer",
+      "content": "这么贵",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614190"
+    },
+    {
+      "role": "buyer",
+      "content": "自提在东城吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614191"
+    },
+    {
+      "role": "seller",
+      "content": "是滴",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614193"
+    },
+    {
+      "role": "seller",
+      "content": "半日达是比较贵 距离有点远",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614195"
+    },
+    {
+      "role": "seller",
+      "content": "然后可能天气问题 下雨天也会贵点",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614196"
+    },
+    {
+      "role": "buyer",
+      "content": "今天不是大太阳吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614198"
+    },
+    {
+      "role": "seller",
+      "content": "东城这边下雨啦 黑天了",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614199"
+    },
+    {
+      "role": "buyer",
+      "content": "东城什么位置",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614201"
+    },
+    {
+      "role": "seller",
+      "content": "星河城",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614202"
+    },
+    {
+      "role": "buyer",
+      "content": "请问半日达几点前要寄出才能当天到 你们几点下班",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614204"
+    },
+    {
+      "role": "seller",
+      "content": "这个不太好说~",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614205"
+    },
+    {
+      "role": "seller",
+      "content": "目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614207"
+    },
+    {
+      "role": "buyer",
+      "content": "又要威又要戴头盔啊(事***4)闲鱼号...",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614208"
+    },
+    {
+      "role": "buyer",
+      "content": "08-24 11:26亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读08-24 11:36跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲已读08-24 12:04什么价格要具体看看是什么地址才知道噢亲亲已读虎门太平广场附近你看下这个费用08-24 12:11跑腿大概是70左右 顺丰半日达用了券后大概是50左右已读这么贵自提在东城吗是滴已读半日达是比较贵 距离有点远已读然后可能天气问题 下雨天也会贵点已读今天不是大太阳吗东城这边下雨啦 黑天了已读东城什么位置星河城已读星河城购物中心东城街道星城社区东昇路229号已读08-24 14:07请问半日达几点前要寄出才能当天到 你们几点下班08-24 14:30这个不太好说~已读目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614210"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614211"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614213"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614214"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614216"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614217"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿 半日达都可以的哈，半日达和跑腿不属于包邮范围，需自付噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614219"
+    },
+    {
+      "role": "buyer",
+      "content": "什么价格",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614220"
+    },
+    {
+      "role": "buyer",
+      "content": "什么价格",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614222"
+    },
+    {
+      "role": "buyer",
+      "content": "什么价格",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614223"
+    },
+    {
+      "role": "seller",
+      "content": "要具体看看是什么地址才知道噢亲亲已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614225"
+    },
+    {
+      "role": "seller",
+      "content": "要具体看看是什么地址才知道噢亲亲已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614226"
+    },
+    {
+      "role": "seller",
+      "content": "要具体看看是什么地址才知道噢亲亲",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614228"
+    },
+    {
+      "role": "buyer",
+      "content": "虎门太平广场附近",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614229"
+    },
+    {
+      "role": "buyer",
+      "content": "虎门太平广场附近",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614231"
+    },
+    {
+      "role": "buyer",
+      "content": "虎门太平广场附近",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614232"
+    },
+    {
+      "role": "buyer",
+      "content": "你看下这个费用",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614234"
+    },
+    {
+      "role": "buyer",
+      "content": "你看下这个费用",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614235"
+    },
+    {
+      "role": "buyer",
+      "content": "你看下这个费用",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614237"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿大概是70左右 顺丰半日达用了券后大概是50左右已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614238"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿大概是70左右 顺丰半日达用了券后大概是50左右已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614240"
+    },
+    {
+      "role": "seller",
+      "content": "跑腿大概是70左右 顺丰半日达用了券后大概是50左右",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614241"
+    },
+    {
+      "role": "buyer",
+      "content": "这么贵",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614243"
+    },
+    {
+      "role": "buyer",
+      "content": "这么贵",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614244"
+    },
+    {
+      "role": "buyer",
+      "content": "这么贵",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614246"
+    },
+    {
+      "role": "buyer",
+      "content": "自提在东城吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614247"
+    },
+    {
+      "role": "buyer",
+      "content": "自提在东城吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614249"
+    },
+    {
+      "role": "buyer",
+      "content": "自提在东城吗",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614251"
+    },
+    {
+      "role": "seller",
+      "content": "是滴已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614252"
+    },
+    {
+      "role": "seller",
+      "content": "是滴已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614254"
+    },
+    {
+      "role": "seller",
+      "content": "是滴",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614255"
+    },
+    {
+      "role": "seller",
+      "content": "半日达是比较贵 距离有点远已读",
+      "timestamp": 1763478222.416,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614257"
+    },
+    {
+      "role": "seller",
+      "content": "半日达是比较贵 距离有点远已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614258"
+    },
+    {
+      "role": "seller",
+      "content": "半日达是比较贵 距离有点远",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614260"
+    },
+    {
+      "role": "seller",
+      "content": "然后可能天气问题 下雨天也会贵点已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614261"
+    },
+    {
+      "role": "seller",
+      "content": "然后可能天气问题 下雨天也会贵点已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614262"
+    },
+    {
+      "role": "seller",
+      "content": "然后可能天气问题 下雨天也会贵点",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614264"
+    },
+    {
+      "role": "buyer",
+      "content": "今天不是大太阳吗",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614265"
+    },
+    {
+      "role": "buyer",
+      "content": "今天不是大太阳吗",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614268"
+    },
+    {
+      "role": "buyer",
+      "content": "今天不是大太阳吗",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614270"
+    },
+    {
+      "role": "seller",
+      "content": "东城这边下雨啦 黑天了已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614271"
+    },
+    {
+      "role": "seller",
+      "content": "东城这边下雨啦 黑天了已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614273"
+    },
+    {
+      "role": "seller",
+      "content": "东城这边下雨啦 黑天了",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614274"
+    },
+    {
+      "role": "buyer",
+      "content": "东城什么位置",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614276"
+    },
+    {
+      "role": "buyer",
+      "content": "东城什么位置",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614277"
+    },
+    {
+      "role": "buyer",
+      "content": "东城什么位置",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614279"
+    },
+    {
+      "role": "seller",
+      "content": "星河城已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614280"
+    },
+    {
+      "role": "seller",
+      "content": "星河城已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614282"
+    },
+    {
+      "role": "seller",
+      "content": "星河城",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614283"
+    },
+    {
+      "role": "seller",
+      "content": "星河城购物中心东城街道星城社区东昇路229号已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614285"
+    },
+    {
+      "role": "seller",
+      "content": "星河城购物中心东城街道星城社区东昇路229号已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614286"
+    },
+    {
+      "role": "buyer",
+      "content": "请问半日达几点前要寄出才能当天到 你们几点下班",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614288"
+    },
+    {
+      "role": "buyer",
+      "content": "请问半日达几点前要寄出才能当天到 你们几点下班",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614289"
+    },
+    {
+      "role": "buyer",
+      "content": "请问半日达几点前要寄出才能当天到 你们几点下班",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614291"
+    },
+    {
+      "role": "seller",
+      "content": "这个不太好说~已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614293"
+    },
+    {
+      "role": "seller",
+      "content": "这个不太好说~已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614294"
+    },
+    {
+      "role": "seller",
+      "content": "这个不太好说~",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614296"
+    },
+    {
+      "role": "seller",
+      "content": "目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614297"
+    },
+    {
+      "role": "seller",
+      "content": "目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂已读",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614299"
+    },
+    {
+      "role": "seller",
+      "content": "目前双屏翻译机租完了 刚刚中午有个导游租完了剩下的几台了😂",
+      "timestamp": 1763478222.417,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:42.614300"
+    }
+  ],
+  "message_count": 99,
+  "crawl_time": "2025-11-18T23:03:42.616171",
+  "source": "browser_automation"
+}

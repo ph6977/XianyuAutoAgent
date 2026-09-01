@@ -1,0 +1,251 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "是国行机？",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863495"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863507"
+    },
+    {
+      "role": "buyer",
+      "content": "有二手机出租或出售么",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863511"
+    },
+    {
+      "role": "buyer",
+      "content": "人工服务",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863530"
+    },
+    {
+      "role": "seller",
+      "content": "你好，手机出租目前是有三星 vivo和oppo的哈",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863534"
+    },
+    {
+      "role": "buyer",
+      "content": "是国行机？",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863537"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863540"
+    },
+    {
+      "role": "buyer",
+      "content": "有二手机出租或出售么",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863543"
+    },
+    {
+      "role": "buyer",
+      "content": "人工服务",
+      "timestamp": 1763477857.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863545"
+    },
+    {
+      "role": "seller",
+      "content": "你好，手机出租目前是有三星 vivo和oppo的哈",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863548"
+    },
+    {
+      "role": "buyer",
+      "content": "用户_67594151(h***u)闲鱼号...",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863551"
+    },
+    {
+      "role": "buyer",
+      "content": "09-13 14:27是国行机？亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读有二手机出租或出售么09-13 17:16人工服务09-15 09:13你好，手机出租目前是有三星 vivo和oppo的哈已读",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863554"
+    },
+    {
+      "role": "buyer",
+      "content": "是国行机？",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863556"
+    },
+    {
+      "role": "buyer",
+      "content": "是国行机？",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863559"
+    },
+    {
+      "role": "buyer",
+      "content": "是国行机？",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863561"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863564"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863566"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863569"
+    },
+    {
+      "role": "buyer",
+      "content": "有二手机出租或出售么",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863571"
+    },
+    {
+      "role": "buyer",
+      "content": "有二手机出租或出售么",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863574"
+    },
+    {
+      "role": "buyer",
+      "content": "有二手机出租或出售么",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863576"
+    },
+    {
+      "role": "buyer",
+      "content": "人工服务",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863579"
+    },
+    {
+      "role": "buyer",
+      "content": "人工服务",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863581"
+    },
+    {
+      "role": "buyer",
+      "content": "人工服务",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863584"
+    },
+    {
+      "role": "seller",
+      "content": "你好，手机出租目前是有三星 vivo和oppo的哈已读",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863586"
+    },
+    {
+      "role": "seller",
+      "content": "你好，手机出租目前是有三星 vivo和oppo的哈已读",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863588"
+    },
+    {
+      "role": "seller",
+      "content": "你好，手机出租目前是有三星 vivo和oppo的哈",
+      "timestamp": 1763477857.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:57:37.863591"
+    }
+  ],
+  "message_count": 27,
+  "crawl_time": "2025-11-18T22:57:37.866792",
+  "source": "browser_automation"
+}

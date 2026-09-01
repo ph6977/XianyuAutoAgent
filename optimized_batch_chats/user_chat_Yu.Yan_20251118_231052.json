@@ -1,0 +1,431 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "胖卡四还有吗",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931698"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931704"
+    },
+    {
+      "role": "buyer",
+      "content": "16-18",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931706"
+    },
+    {
+      "role": "seller",
+      "content": "16-18没有了宝宝",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931707"
+    },
+    {
+      "role": "seller",
+      "content": "这么突然吗哈哈哈",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931708"
+    },
+    {
+      "role": "buyer",
+      "content": "前几天太忙忘记了",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931709"
+    },
+    {
+      "role": "seller",
+      "content": "抱抱~",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931710"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢 还有没有类似的机型可以租呢。",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931711"
+    },
+    {
+      "role": "seller",
+      "content": "16-18看演唱会用的话 目前剩几台740了宝宝",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931712"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡四还有吗",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931713"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931714"
+    },
+    {
+      "role": "buyer",
+      "content": "16-18",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931715"
+    },
+    {
+      "role": "seller",
+      "content": "16-18没有了宝宝",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931716"
+    },
+    {
+      "role": "seller",
+      "content": "这么突然吗哈哈哈",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931717"
+    },
+    {
+      "role": "buyer",
+      "content": "前几天太忙忘记了",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931718"
+    },
+    {
+      "role": "seller",
+      "content": "抱抱~",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931719"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢 还有没有类似的机型可以租呢。",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931720"
+    },
+    {
+      "role": "seller",
+      "content": "16-18看演唱会用的话 目前剩几台740了宝宝",
+      "timestamp": 1763478619.815,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931721"
+    },
+    {
+      "role": "buyer",
+      "content": "Yu.Yan(t***3)闲鱼号...",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931722"
+    },
+    {
+      "role": "buyer",
+      "content": "08-14 19:35胖卡四还有吗亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读16-1808-14 21:2916-18没有了宝宝已读这么突然吗哈哈哈已读08-14 22:16前几天太忙忘记了抱抱~已读谢谢 还有没有类似的机型可以租呢。08-15 09:3216-18看演唱会用的话 目前剩几台740了宝宝已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931723"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡四还有吗",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931724"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡四还有吗",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931725"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡四还有吗",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931726"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931727"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931728"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931729"
+    },
+    {
+      "role": "buyer",
+      "content": "16-18",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931730"
+    },
+    {
+      "role": "buyer",
+      "content": "16-18",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931731"
+    },
+    {
+      "role": "buyer",
+      "content": "16-18",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931732"
+    },
+    {
+      "role": "seller",
+      "content": "16-18没有了宝宝已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931733"
+    },
+    {
+      "role": "seller",
+      "content": "16-18没有了宝宝已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931734"
+    },
+    {
+      "role": "seller",
+      "content": "16-18没有了宝宝",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931735"
+    },
+    {
+      "role": "seller",
+      "content": "这么突然吗哈哈哈已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931736"
+    },
+    {
+      "role": "seller",
+      "content": "这么突然吗哈哈哈已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931737"
+    },
+    {
+      "role": "seller",
+      "content": "这么突然吗哈哈哈",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931738"
+    },
+    {
+      "role": "buyer",
+      "content": "前几天太忙忘记了",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931739"
+    },
+    {
+      "role": "buyer",
+      "content": "前几天太忙忘记了",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931739"
+    },
+    {
+      "role": "buyer",
+      "content": "前几天太忙忘记了",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931740"
+    },
+    {
+      "role": "seller",
+      "content": "抱抱~已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931741"
+    },
+    {
+      "role": "seller",
+      "content": "抱抱~已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931742"
+    },
+    {
+      "role": "seller",
+      "content": "抱抱~",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931743"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢 还有没有类似的机型可以租呢。",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931744"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢 还有没有类似的机型可以租呢。",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931745"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢 还有没有类似的机型可以租呢。",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931746"
+    },
+    {
+      "role": "seller",
+      "content": "16-18看演唱会用的话 目前剩几台740了宝宝已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931747"
+    },
+    {
+      "role": "seller",
+      "content": "16-18看演唱会用的话 目前剩几台740了宝宝已读",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931748"
+    },
+    {
+      "role": "seller",
+      "content": "16-18看演唱会用的话 目前剩几台740了宝宝",
+      "timestamp": 1763478619.816,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:19.931748"
+    }
+  ],
+  "message_count": 47,
+  "crawl_time": "2025-11-18T23:10:19.939107",
+  "source": "browser_automation"
+}

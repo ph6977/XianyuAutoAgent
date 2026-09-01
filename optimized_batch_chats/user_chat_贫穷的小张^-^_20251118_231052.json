@@ -1,0 +1,395 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.613,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680925"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477757.613,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680934"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有滴~",
+      "timestamp": 1763477757.613,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680937"
+    },
+    {
+      "role": "seller",
+      "content": "9.27-9.30四天。9.26到手，10.1寄回对吗？",
+      "timestamp": 1763477757.613,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680939"
+    },
+    {
+      "role": "buyer",
+      "content": "嗯嗯",
+      "timestamp": 1763477757.613,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680940"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，在吗",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680942"
+    },
+    {
+      "role": "seller",
+      "content": "你好在的",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680944"
+    },
+    {
+      "role": "seller",
+      "content": "500~顺丰包邮寄出滴",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680945"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680947"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680949"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有滴~",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680951"
+    },
+    {
+      "role": "seller",
+      "content": "9.27-9.30四天。9.26到手，10.1寄回对吗？",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680952"
+    },
+    {
+      "role": "buyer",
+      "content": "嗯嗯",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680954"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，在吗",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680955"
+    },
+    {
+      "role": "seller",
+      "content": "你好在的",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680957"
+    },
+    {
+      "role": "seller",
+      "content": "500~顺丰包邮寄出滴",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680959"
+    },
+    {
+      "role": "buyer",
+      "content": "贫穷的小张^-^(尘***悦)闲鱼号...",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680961"
+    },
+    {
+      "role": "buyer",
+      "content": "09-10 09:41hello，9.27-30 想要租oppo findx8u亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读09-10 12:00你好，有滴~已读9.27-9.30四天。9.26到手，10.1寄回对吗？已读09-10 15:28嗯嗯09-23 14:40hello，在吗09-23 15:06你好在的 已读贫穷的小张^-^hello，9.27-30 想要租oppo findx8u500~顺丰包邮寄出滴已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680963"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680964"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680966"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680967"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680969"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680970"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680972"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有滴~已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680974"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有滴~已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680976"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有滴~",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680978"
+    },
+    {
+      "role": "seller",
+      "content": "9.27-9.30四天。9.26到手，10.1寄回对吗？已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680980"
+    },
+    {
+      "role": "seller",
+      "content": "9.27-9.30四天。9.26到手，10.1寄回对吗？已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680981"
+    },
+    {
+      "role": "seller",
+      "content": "9.27-9.30四天。9.26到手，10.1寄回对吗？",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680983"
+    },
+    {
+      "role": "buyer",
+      "content": "嗯嗯",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680984"
+    },
+    {
+      "role": "buyer",
+      "content": "嗯嗯",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680986"
+    },
+    {
+      "role": "buyer",
+      "content": "嗯嗯",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680987"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，在吗",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680989"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，在吗",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680991"
+    },
+    {
+      "role": "buyer",
+      "content": "hello，在吗",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680992"
+    },
+    {
+      "role": "seller",
+      "content": "你好在的 已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680993"
+    },
+    {
+      "role": "seller",
+      "content": "你好在的 已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680995"
+    },
+    {
+      "role": "seller",
+      "content": "你好在的",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680996"
+    },
+    {
+      "role": "seller",
+      "content": "贫穷的小张^-^hello，9.27-30 想要租oppo findx8u500~顺丰包邮寄出滴已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680998"
+    },
+    {
+      "role": "seller",
+      "content": "贫穷的小张^-^hello，9.27-30 想要租oppo findx8u500~顺丰包邮寄出滴已读",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.680999"
+    },
+    {
+      "role": "seller",
+      "content": "贫穷的小张^-^hello，9.27-30 想要租oppo findx8u500~顺丰包邮寄出滴",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.681001"
+    },
+    {
+      "role": "seller",
+      "content": "贫穷的小张^-^hello，9.27-30 想要租oppo findx8u",
+      "timestamp": 1763477757.614,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:57.681002"
+    }
+  ],
+  "message_count": 43,
+  "crawl_time": "2025-11-18T22:55:57.683895",
+  "source": "browser_automation"
+}

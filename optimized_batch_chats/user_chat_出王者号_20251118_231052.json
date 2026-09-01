@@ -1,0 +1,71 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.162,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183074"
+    },
+    {
+      "role": "buyer",
+      "content": "您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183084"
+    },
+    {
+      "role": "buyer",
+      "content": "出王者号(x***2)闲鱼号...",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183086"
+    },
+    {
+      "role": "buyer",
+      "content": "10-30 15:51您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183088"
+    },
+    {
+      "role": "buyer",
+      "content": "您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183090"
+    },
+    {
+      "role": "buyer",
+      "content": "您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183091"
+    },
+    {
+      "role": "buyer",
+      "content": "您好，如果您需要寄快递，以及网购退货薅个运费差价，可以嗖《悦达寄件》小 禾呈 序，顺丰三通一达 全囯上门取件首重只要4快 祝您闲鱼大卖",
+      "timestamp": 1763477492.163,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:51:32.183093"
+    }
+  ],
+  "message_count": 7,
+  "crawl_time": "2025-11-18T22:51:32.188932",
+  "source": "browser_automation"
+}

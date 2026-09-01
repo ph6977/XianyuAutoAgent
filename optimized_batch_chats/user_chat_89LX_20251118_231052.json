@@ -1,0 +1,395 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "哈哈哈",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683205"
+    },
+    {
+      "role": "seller",
+      "content": "jinxi-xing",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683222"
+    },
+    {
+      "role": "buyer",
+      "content": "ok",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683227"
+    },
+    {
+      "role": "buyer",
+      "content": "加咯",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683232"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683236"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈哈",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683240"
+    },
+    {
+      "role": "seller",
+      "content": "jinxi-xing",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683244"
+    },
+    {
+      "role": "buyer",
+      "content": "ok",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683248"
+    },
+    {
+      "role": "buyer",
+      "content": "加咯",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683252"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683256"
+    },
+    {
+      "role": "buyer",
+      "content": "89LX(t***4)闲鱼号...",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683259"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763478012.507,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683264"
+    },
+    {
+      "role": "buyer",
+      "content": "08-22 21:51哈哈哈已读jinxi-xing已读ok我已读已读加咯08-25 22:00你已发货08-26 00:00请确认商品寄回地址请尽快确认商品寄回地址 去确认09-02 12:10买家已寄回09-02 16:53此消息不支持在PC端浏览，请到APP上查看09-05 10:24请确认退回金额我已验货完成，请尽快确认已读09-06 10:24买家已确认退回金额，交易成功宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683267"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈哈已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683271"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈哈已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683274"
+    },
+    {
+      "role": "seller",
+      "content": "哈哈哈",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683278"
+    },
+    {
+      "role": "seller",
+      "content": "jinxi-xing已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683281"
+    },
+    {
+      "role": "seller",
+      "content": "jinxi-xing已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683285"
+    },
+    {
+      "role": "seller",
+      "content": "jinxi-xing",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683289"
+    },
+    {
+      "role": "buyer",
+      "content": "ok",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683293"
+    },
+    {
+      "role": "buyer",
+      "content": "ok",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683297"
+    },
+    {
+      "role": "buyer",
+      "content": "ok",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683300"
+    },
+    {
+      "role": "seller",
+      "content": "我已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683304"
+    },
+    {
+      "role": "seller",
+      "content": "我已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683307"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683310"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683314"
+    },
+    {
+      "role": "buyer",
+      "content": "加咯",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683317"
+    },
+    {
+      "role": "buyer",
+      "content": "加咯",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683321"
+    },
+    {
+      "role": "buyer",
+      "content": "加咯",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683324"
+    },
+    {
+      "role": "buyer",
+      "content": "此消息不支持在PC端浏览，请到APP上查看",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683328"
+    },
+    {
+      "role": "buyer",
+      "content": "此消息不支持在PC端浏览，请到APP上查看",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683332"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683335"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683339"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683343"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683347"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683350"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683353"
+    },
+    {
+      "role": "buyer",
+      "content": "请确认商品寄回地址请尽快确认商品寄回地址 去确认",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683357"
+    },
+    {
+      "role": "seller",
+      "content": "买家已寄回",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683360"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683364"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683367"
+    },
+    {
+      "role": "seller",
+      "content": "我已验货完成，请尽快确认",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683370"
+    },
+    {
+      "role": "seller",
+      "content": "买家已确认退回金额，交易成功",
+      "timestamp": 1763478012.508,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:00:12.683374"
+    }
+  ],
+  "message_count": 43,
+  "crawl_time": "2025-11-18T23:00:12.692899",
+  "source": "browser_automation"
+}

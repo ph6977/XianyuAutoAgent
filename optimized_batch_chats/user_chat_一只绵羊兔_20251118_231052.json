@@ -1,0 +1,710 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694970"
+    },
+    {
+      "role": "seller",
+      "content": "昂 可以滴可以滴",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694978"
+    },
+    {
+      "role": "buyer",
+      "content": "我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694981"
+    },
+    {
+      "role": "buyer",
+      "content": "能优惠点吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694983"
+    },
+    {
+      "role": "seller",
+      "content": "13号中午左右到手的话，等于是14一天",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694984"
+    },
+    {
+      "role": "seller",
+      "content": "13到手，15还，250",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694986"
+    },
+    {
+      "role": "seller",
+      "content": "不确保上午就能拿到~因为要看当时顺丰小哥派送的时效",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694988"
+    },
+    {
+      "role": "seller",
+      "content": "我们只能确保13当天能到",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694989"
+    },
+    {
+      "role": "buyer",
+      "content": "那13 14两天250可以吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694991"
+    },
+    {
+      "role": "seller",
+      "content": "如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694993"
+    },
+    {
+      "role": "buyer",
+      "content": "我月底还要租一次",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694994"
+    },
+    {
+      "role": "seller",
+      "content": "不议价噢宝宝",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694996"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧 那算了我再看看",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694997"
+    },
+    {
+      "role": "seller",
+      "content": "好的好的",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.694999"
+    },
+    {
+      "role": "seller",
+      "content": "9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695000"
+    },
+    {
+      "role": "seller",
+      "content": "昂 可以滴可以滴",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695002"
+    },
+    {
+      "role": "buyer",
+      "content": "我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695003"
+    },
+    {
+      "role": "buyer",
+      "content": "能优惠点吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695005"
+    },
+    {
+      "role": "seller",
+      "content": "13号中午左右到手的话，等于是14一天",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695006"
+    },
+    {
+      "role": "seller",
+      "content": "13到手，15还，250",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695008"
+    },
+    {
+      "role": "seller",
+      "content": "不确保上午就能拿到~因为要看当时顺丰小哥派送的时效",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695009"
+    },
+    {
+      "role": "seller",
+      "content": "我们只能确保13当天能到",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695011"
+    },
+    {
+      "role": "buyer",
+      "content": "那13 14两天250可以吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695012"
+    },
+    {
+      "role": "seller",
+      "content": "如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695014"
+    },
+    {
+      "role": "buyer",
+      "content": "我月底还要租一次",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695015"
+    },
+    {
+      "role": "seller",
+      "content": "不议价噢宝宝",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695017"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧 那算了我再看看",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695018"
+    },
+    {
+      "role": "seller",
+      "content": "好的好的",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695020"
+    },
+    {
+      "role": "buyer",
+      "content": "一只绵羊兔(马***4)闲鱼号...",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695022"
+    },
+    {
+      "role": "buyer",
+      "content": "你撤回了一条消息9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子已读一只绵羊兔南京江宁区昂 可以滴可以滴已读我13号上午拿到就可以能优惠点吗一只绵羊兔我13号上午拿到就可以13号中午左右到手的话，等于是14一天已读13到手，15还，250已读不确保上午就能拿到~因为要看当时顺丰小哥派送的时效已读我们只能确保13当天能到已读那13 14两天250可以吗如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障已读我月底还要租一次不议价噢宝宝已读不想宝贝被砍价? 设置不砍价回复已读好吧 那算了我再看看09-10 20:48好的好的已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695023"
+    },
+    {
+      "role": "seller",
+      "content": "9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695025"
+    },
+    {
+      "role": "seller",
+      "content": "9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695026"
+    },
+    {
+      "role": "seller",
+      "content": "9.13-9.14，9.12到手，9.15寄回    300~顺丰包邮寄出哈宝子",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695028"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔南京江宁区昂 可以滴可以滴已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695029"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔南京江宁区昂 可以滴可以滴已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695031"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔南京江宁区昂 可以滴可以滴",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695032"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔南京江宁区",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695034"
+    },
+    {
+      "role": "buyer",
+      "content": "我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695035"
+    },
+    {
+      "role": "buyer",
+      "content": "我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695037"
+    },
+    {
+      "role": "buyer",
+      "content": "我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695039"
+    },
+    {
+      "role": "buyer",
+      "content": "能优惠点吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695040"
+    },
+    {
+      "role": "buyer",
+      "content": "能优惠点吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695042"
+    },
+    {
+      "role": "buyer",
+      "content": "能优惠点吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695044"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔我13号上午拿到就可以13号中午左右到手的话，等于是14一天已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695045"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔我13号上午拿到就可以13号中午左右到手的话，等于是14一天已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695046"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔我13号上午拿到就可以13号中午左右到手的话，等于是14一天",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695048"
+    },
+    {
+      "role": "seller",
+      "content": "一只绵羊兔我13号上午拿到就可以",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695049"
+    },
+    {
+      "role": "seller",
+      "content": "13到手，15还，250已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695051"
+    },
+    {
+      "role": "seller",
+      "content": "13到手，15还，250已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695052"
+    },
+    {
+      "role": "seller",
+      "content": "13到手，15还，250",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695054"
+    },
+    {
+      "role": "seller",
+      "content": "不确保上午就能拿到~因为要看当时顺丰小哥派送的时效已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695055"
+    },
+    {
+      "role": "seller",
+      "content": "不确保上午就能拿到~因为要看当时顺丰小哥派送的时效已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695057"
+    },
+    {
+      "role": "seller",
+      "content": "不确保上午就能拿到~因为要看当时顺丰小哥派送的时效",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695058"
+    },
+    {
+      "role": "seller",
+      "content": "我们只能确保13当天能到已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695060"
+    },
+    {
+      "role": "seller",
+      "content": "我们只能确保13当天能到已读",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695061"
+    },
+    {
+      "role": "seller",
+      "content": "我们只能确保13当天能到",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695063"
+    },
+    {
+      "role": "buyer",
+      "content": "那13 14两天250可以吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695064"
+    },
+    {
+      "role": "buyer",
+      "content": "那13 14两天250可以吗",
+      "timestamp": 1763477946.617,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695066"
+    },
+    {
+      "role": "buyer",
+      "content": "那13 14两天250可以吗",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695067"
+    },
+    {
+      "role": "seller",
+      "content": "如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695069"
+    },
+    {
+      "role": "seller",
+      "content": "如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695070"
+    },
+    {
+      "role": "seller",
+      "content": "如果说是需要13早上到，建议宝子这边是13-14两天，12到手，15寄回，会比较有保障",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695071"
+    },
+    {
+      "role": "buyer",
+      "content": "我月底还要租一次",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695073"
+    },
+    {
+      "role": "buyer",
+      "content": "我月底还要租一次",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695074"
+    },
+    {
+      "role": "buyer",
+      "content": "我月底还要租一次",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695077"
+    },
+    {
+      "role": "seller",
+      "content": "不议价噢宝宝已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695079"
+    },
+    {
+      "role": "seller",
+      "content": "不议价噢宝宝已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695080"
+    },
+    {
+      "role": "seller",
+      "content": "不议价噢宝宝",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695082"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695083"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695084"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧 那算了我再看看",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695086"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧 那算了我再看看",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695087"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧 那算了我再看看",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695089"
+    },
+    {
+      "role": "seller",
+      "content": "好的好的已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695090"
+    },
+    {
+      "role": "seller",
+      "content": "好的好的已读",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695092"
+    },
+    {
+      "role": "seller",
+      "content": "好的好的",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695093"
+    },
+    {
+      "role": "seller",
+      "content": "你撤回了一条消息",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695095"
+    },
+    {
+      "role": "seller",
+      "content": "不想宝贝被砍价? 设置不砍价回复",
+      "timestamp": 1763477946.618,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:59:06.695097"
+    }
+  ],
+  "message_count": 78,
+  "crawl_time": "2025-11-18T22:59:06.697397",
+  "source": "browser_automation"
+}

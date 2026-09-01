@@ -1,0 +1,206 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "胖卡4 8.28收到 8.31寄出 多少呀",
+      "timestamp": 1763478641.552,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574572"
+    },
+    {
+      "role": "seller",
+      "content": "你好 宝子~",
+      "timestamp": 1763478641.552,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574581"
+    },
+    {
+      "role": "seller",
+      "content": "425哈",
+      "timestamp": 1763478641.552,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574583"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮寄出",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574585"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡4 8.28收到 8.31寄出 多少呀",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574586"
+    },
+    {
+      "role": "seller",
+      "content": "你好 宝子~",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574588"
+    },
+    {
+      "role": "seller",
+      "content": "425哈",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574590"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮寄出",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574592"
+    },
+    {
+      "role": "buyer",
+      "content": "澍即及时雨(t***0)闲鱼号...",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574593"
+    },
+    {
+      "role": "buyer",
+      "content": "08-14 12:02胖卡4 8.28收到 8.31寄出 多少呀08-14 12:28你好 宝子~已读425哈已读顺丰包邮寄出已读",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574595"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡4 8.28收到 8.31寄出 多少呀",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574597"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡4 8.28收到 8.31寄出 多少呀",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574598"
+    },
+    {
+      "role": "buyer",
+      "content": "胖卡4 8.28收到 8.31寄出 多少呀",
+      "timestamp": 1763478641.553,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574600"
+    },
+    {
+      "role": "seller",
+      "content": "你好 宝子~已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574601"
+    },
+    {
+      "role": "seller",
+      "content": "你好 宝子~已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574603"
+    },
+    {
+      "role": "seller",
+      "content": "你好 宝子~",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574604"
+    },
+    {
+      "role": "seller",
+      "content": "425哈已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574606"
+    },
+    {
+      "role": "seller",
+      "content": "425哈已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574607"
+    },
+    {
+      "role": "seller",
+      "content": "425哈",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574609"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮寄出已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574610"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮寄出已读",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574611"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮寄出",
+      "timestamp": 1763478641.554,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:10:41.574613"
+    }
+  ],
+  "message_count": 22,
+  "crawl_time": "2025-11-18T23:10:41.576512",
+  "source": "browser_automation"
+}

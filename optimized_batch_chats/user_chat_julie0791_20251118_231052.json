@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "想租22号收到25号寄回还有吗",
+      "timestamp": 1763478574.392,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774925"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774934"
+    },
+    {
+      "role": "seller",
+      "content": "你好，这个档期没有了噢宝宝",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774936"
+    },
+    {
+      "role": "buyer",
+      "content": "想租22号收到25号寄回还有吗",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774937"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774938"
+    },
+    {
+      "role": "seller",
+      "content": "你好，这个档期没有了噢宝宝",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774939"
+    },
+    {
+      "role": "buyer",
+      "content": "julie0791(j***x)闲鱼号...",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774940"
+    },
+    {
+      "role": "buyer",
+      "content": "12:19想租22号收到25号寄回还有吗亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读12:43你好，这个档期没有了噢宝宝已读",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774941"
+    },
+    {
+      "role": "buyer",
+      "content": "想租22号收到25号寄回还有吗",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774941"
+    },
+    {
+      "role": "buyer",
+      "content": "想租22号收到25号寄回还有吗",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774942"
+    },
+    {
+      "role": "buyer",
+      "content": "想租22号收到25号寄回还有吗",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774943"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774944"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774945"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774946"
+    },
+    {
+      "role": "seller",
+      "content": "你好，这个档期没有了噢宝宝已读",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774947"
+    },
+    {
+      "role": "seller",
+      "content": "你好，这个档期没有了噢宝宝已读",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774948"
+    },
+    {
+      "role": "seller",
+      "content": "你好，这个档期没有了噢宝宝",
+      "timestamp": 1763478574.393,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:09:34.774949"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T23:09:34.792447",
+  "source": "browser_automation"
+}

@@ -1,0 +1,116 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551774"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551779"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551781"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551782"
+    },
+    {
+      "role": "buyer",
+      "content": "巴黎游泳芦丁(t***5)闲鱼号...",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551783"
+    },
+    {
+      "role": "buyer",
+      "content": "10-22 10:54你好你好~已读",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551784"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551784"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551785"
+    },
+    {
+      "role": "buyer",
+      "content": "你好",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551786"
+    },
+    {
+      "role": "seller",
+      "content": "你好~已读",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551787"
+    },
+    {
+      "role": "seller",
+      "content": "你好~已读",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551788"
+    },
+    {
+      "role": "seller",
+      "content": "你好~",
+      "timestamp": 1763477547.543,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:52:27.551789"
+    }
+  ],
+  "message_count": 12,
+  "crawl_time": "2025-11-18T22:52:27.552923",
+  "source": "browser_automation"
+}

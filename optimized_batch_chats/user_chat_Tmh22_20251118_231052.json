@@ -1,0 +1,791 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "上次租，用花呗的押金",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360483"
+    },
+    {
+      "role": "buyer",
+      "content": "这次怎么不行了",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360492"
+    },
+    {
+      "role": "seller",
+      "content": "是不是双11用完额度哈哈哈",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360494"
+    },
+    {
+      "role": "seller",
+      "content": "现在便宜点噢，有限时特惠价",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360496"
+    },
+    {
+      "role": "seller",
+      "content": "我改价给你",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360497"
+    },
+    {
+      "role": "seller",
+      "content": "要选这个原花呗",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360499"
+    },
+    {
+      "role": "buyer",
+      "content": "不行么",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360500"
+    },
+    {
+      "role": "seller",
+      "content": "呀....怎么这样的",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360502"
+    },
+    {
+      "role": "buyer",
+      "content": "会不会上次，用芝麻分租借的，还没有释放出来？",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360503"
+    },
+    {
+      "role": "seller",
+      "content": "不会的，订单结束他就秒退的",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360505"
+    },
+    {
+      "role": "seller",
+      "content": "这个确实不知道为啥会没有",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360506"
+    },
+    {
+      "role": "seller",
+      "content": "我发我另外一家店的给你试试看",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360508"
+    },
+    {
+      "role": "seller",
+      "content": "闲鱼搜 火星情绪稳定的蔬菜",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360509"
+    },
+    {
+      "role": "seller",
+      "content": "也是我",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360510"
+    },
+    {
+      "role": "buyer",
+      "content": "上次租，用花呗的押金",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360512"
+    },
+    {
+      "role": "buyer",
+      "content": "这次怎么不行了",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360513"
+    },
+    {
+      "role": "seller",
+      "content": "是不是双11用完额度哈哈哈",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360515"
+    },
+    {
+      "role": "seller",
+      "content": "现在便宜点噢，有限时特惠价",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360517"
+    },
+    {
+      "role": "seller",
+      "content": "我改价给你",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360518"
+    },
+    {
+      "role": "seller",
+      "content": "要选这个原花呗",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360520"
+    },
+    {
+      "role": "buyer",
+      "content": "不行么",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360521"
+    },
+    {
+      "role": "seller",
+      "content": "呀....怎么这样的",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360523"
+    },
+    {
+      "role": "buyer",
+      "content": "会不会上次，用芝麻分租借的，还没有释放出来？",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360524"
+    },
+    {
+      "role": "seller",
+      "content": "不会的，订单结束他就秒退的",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360526"
+    },
+    {
+      "role": "seller",
+      "content": "这个确实不知道为啥会没有",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360528"
+    },
+    {
+      "role": "seller",
+      "content": "我发我另外一家店的给你试试看",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360529"
+    },
+    {
+      "role": "seller",
+      "content": "闲鱼搜 火星情绪稳定的蔬菜",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360531"
+    },
+    {
+      "role": "seller",
+      "content": "也是我",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360532"
+    },
+    {
+      "role": "buyer",
+      "content": "Tmh22(t***7)闲鱼号...",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360534"
+    },
+    {
+      "role": "buyer",
+      "content": "上次租，用花呗的押金",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360535"
+    },
+    {
+      "role": "buyer",
+      "content": "上次租，用花呗的押金",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360537"
+    },
+    {
+      "role": "buyer",
+      "content": "上次租，用花呗的押金",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360538"
+    },
+    {
+      "role": "buyer",
+      "content": "这次怎么不行了",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360540"
+    },
+    {
+      "role": "buyer",
+      "content": "这次怎么不行了",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360542"
+    },
+    {
+      "role": "buyer",
+      "content": "这次怎么不行了",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360543"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360544"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360546"
+    },
+    {
+      "role": "seller",
+      "content": "是不是双11用完额度哈哈哈已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360547"
+    },
+    {
+      "role": "seller",
+      "content": "是不是双11用完额度哈哈哈已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360548"
+    },
+    {
+      "role": "seller",
+      "content": "是不是双11用完额度哈哈哈",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360550"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360555"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360557"
+    },
+    {
+      "role": "seller",
+      "content": "现在便宜点噢，有限时特惠价已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360559"
+    },
+    {
+      "role": "seller",
+      "content": "现在便宜点噢，有限时特惠价已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360560"
+    },
+    {
+      "role": "seller",
+      "content": "现在便宜点噢，有限时特惠价",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360562"
+    },
+    {
+      "role": "seller",
+      "content": "我改价给你已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360563"
+    },
+    {
+      "role": "seller",
+      "content": "我改价给你已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360564"
+    },
+    {
+      "role": "seller",
+      "content": "我改价给你",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360566"
+    },
+    {
+      "role": "seller",
+      "content": "我已修改价格，等待你付款请确认价格与协商一致，并在24小时内付款已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360567"
+    },
+    {
+      "role": "seller",
+      "content": "我已修改价格，等待你付款请确认价格与协商一致，并在24小时内付款已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360569"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览要选这个原花呗已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360570"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览要选这个原花呗已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360572"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览要选这个原花呗",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360573"
+    },
+    {
+      "role": "seller",
+      "content": "小金星租赁店预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360575"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360576"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360577"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360579"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360580"
+    },
+    {
+      "role": "buyer",
+      "content": "不行么",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360582"
+    },
+    {
+      "role": "buyer",
+      "content": "不行么",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360583"
+    },
+    {
+      "role": "buyer",
+      "content": "不行么",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360584"
+    },
+    {
+      "role": "seller",
+      "content": "呀....怎么这样的已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360586"
+    },
+    {
+      "role": "seller",
+      "content": "呀....怎么这样的已读",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360587"
+    },
+    {
+      "role": "seller",
+      "content": "呀....怎么这样的",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360588"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360590"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360592"
+    },
+    {
+      "role": "buyer",
+      "content": "会不会上次，用芝麻分租借的，还没有释放出来？",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360594"
+    },
+    {
+      "role": "buyer",
+      "content": "会不会上次，用芝麻分租借的，还没有释放出来？",
+      "timestamp": 1763477447.204,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360595"
+    },
+    {
+      "role": "buyer",
+      "content": "会不会上次，用芝麻分租借的，还没有释放出来？",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360597"
+    },
+    {
+      "role": "seller",
+      "content": "不会的，订单结束他就秒退的已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360598"
+    },
+    {
+      "role": "seller",
+      "content": "不会的，订单结束他就秒退的已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360599"
+    },
+    {
+      "role": "seller",
+      "content": "不会的，订单结束他就秒退的",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360601"
+    },
+    {
+      "role": "seller",
+      "content": "这个确实不知道为啥会没有我发我另外一家店的给你试试看已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360602"
+    },
+    {
+      "role": "seller",
+      "content": "这个确实不知道为啥会没有我发我另外一家店的给你试试看已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360603"
+    },
+    {
+      "role": "seller",
+      "content": "这个确实不知道为啥会没有我发我另外一家店的给你试试看",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360605"
+    },
+    {
+      "role": "seller",
+      "content": "闲鱼搜 火星情绪稳定的蔬菜已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360606"
+    },
+    {
+      "role": "seller",
+      "content": "闲鱼搜 火星情绪稳定的蔬菜已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360608"
+    },
+    {
+      "role": "seller",
+      "content": "闲鱼搜 火星情绪稳定的蔬菜",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360610"
+    },
+    {
+      "role": "seller",
+      "content": "也是我已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360612"
+    },
+    {
+      "role": "seller",
+      "content": "也是我已读",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360613"
+    },
+    {
+      "role": "seller",
+      "content": "也是我",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360615"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款请在15分钟内付款，避免宝贝被其他人抢走",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360616"
+    },
+    {
+      "role": "seller",
+      "content": "你当前宝贝拍下未付款",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360618"
+    },
+    {
+      "role": "seller",
+      "content": "请在15分钟内付款，避免宝贝被其他人抢走",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360619"
+    },
+    {
+      "role": "seller",
+      "content": "我已修改价格，等待你付款请确认价格与协商一致，并在24小时内付款",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360621"
+    },
+    {
+      "role": "seller",
+      "content": "我已修改价格，等待你付款",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360622"
+    },
+    {
+      "role": "seller",
+      "content": "请确认价格与协商一致，并在24小时内付款",
+      "timestamp": 1763477447.205,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:47.360624"
+    }
+  ],
+  "message_count": 87,
+  "crawl_time": "2025-11-18T22:50:47.364348",
+  "source": "browser_automation"
+}

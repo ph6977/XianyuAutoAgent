@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "老板600包邮出吗",
+      "timestamp": 1763477415.158,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.188993"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477415.158,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189005"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮滴",
+      "timestamp": 1763477415.158,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189009"
+    },
+    {
+      "role": "buyer",
+      "content": "老板600包邮出吗",
+      "timestamp": 1763477415.158,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189012"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189015"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮滴",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189018"
+    },
+    {
+      "role": "buyer",
+      "content": "努力的丹姐(x***8)闲鱼号...",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189020"
+    },
+    {
+      "role": "buyer",
+      "content": "11-04 06:56老板600包邮出吗亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读11-04 09:08顺丰包邮滴未读",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189023"
+    },
+    {
+      "role": "buyer",
+      "content": "老板600包邮出吗",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189026"
+    },
+    {
+      "role": "buyer",
+      "content": "老板600包邮出吗",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189028"
+    },
+    {
+      "role": "buyer",
+      "content": "老板600包邮出吗",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189031"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189033"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189036"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189038"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮滴未读",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189041"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮滴未读",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189043"
+    },
+    {
+      "role": "seller",
+      "content": "顺丰包邮滴",
+      "timestamp": 1763477415.159,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:50:15.189045"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T22:50:15.196164",
+  "source": "browser_automation"
+}

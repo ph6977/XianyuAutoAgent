@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "佳能sx70 29-30有档期吗",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284020"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284029"
+    },
+    {
+      "role": "seller",
+      "content": "没有了宝宝",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284032"
+    },
+    {
+      "role": "buyer",
+      "content": "佳能sx70 29-30有档期吗",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284034"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284036"
+    },
+    {
+      "role": "seller",
+      "content": "没有了宝宝",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284038"
+    },
+    {
+      "role": "buyer",
+      "content": "真的睡不醒_(x***5)闲鱼号...",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284040"
+    },
+    {
+      "role": "buyer",
+      "content": "08-24 12:41佳能sx70 29-30有档期吗亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读没有了宝宝已读",
+      "timestamp": 1763478267.251,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284042"
+    },
+    {
+      "role": "buyer",
+      "content": "佳能sx70 29-30有档期吗",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284044"
+    },
+    {
+      "role": "buyer",
+      "content": "佳能sx70 29-30有档期吗",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284045"
+    },
+    {
+      "role": "buyer",
+      "content": "佳能sx70 29-30有档期吗",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284047"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284049"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284050"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284052"
+    },
+    {
+      "role": "seller",
+      "content": "没有了宝宝已读",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284053"
+    },
+    {
+      "role": "seller",
+      "content": "没有了宝宝已读",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284055"
+    },
+    {
+      "role": "seller",
+      "content": "没有了宝宝",
+      "timestamp": 1763478267.252,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:04:27.284057"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T23:04:27.288136",
+  "source": "browser_automation"
+}

@@ -1,0 +1,224 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "您好我想租相机📷",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459482"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459488"
+    },
+    {
+      "role": "buyer",
+      "content": "满18了哦",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459490"
+    },
+    {
+      "role": "seller",
+      "content": "宝子是几号到几号需要？",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459491"
+    },
+    {
+      "role": "buyer",
+      "content": "您好我想租相机📷",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459492"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459492"
+    },
+    {
+      "role": "buyer",
+      "content": "满18了哦",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459493"
+    },
+    {
+      "role": "seller",
+      "content": "宝子是几号到几号需要？",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459494"
+    },
+    {
+      "role": "buyer",
+      "content": "没问题请及时确收哦(t***1)闲鱼号...",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459495"
+    },
+    {
+      "role": "buyer",
+      "content": "08-24 13:04您好我想租相机📷亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读图片预览满18了哦08-24 14:30宝子是几号到几号需要？已读",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459496"
+    },
+    {
+      "role": "buyer",
+      "content": "您好我想租相机📷",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459497"
+    },
+    {
+      "role": "buyer",
+      "content": "您好我想租相机📷",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459498"
+    },
+    {
+      "role": "buyer",
+      "content": "您好我想租相机📷",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459499"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459500"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459501"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459502"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459502"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459503"
+    },
+    {
+      "role": "buyer",
+      "content": "满18了哦",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459504"
+    },
+    {
+      "role": "buyer",
+      "content": "满18了哦",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459505"
+    },
+    {
+      "role": "buyer",
+      "content": "满18了哦",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459506"
+    },
+    {
+      "role": "seller",
+      "content": "宝子是几号到几号需要？已读",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459507"
+    },
+    {
+      "role": "seller",
+      "content": "宝子是几号到几号需要？已读",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459508"
+    },
+    {
+      "role": "seller",
+      "content": "宝子是几号到几号需要？",
+      "timestamp": 1763478233.437,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:53.459508"
+    }
+  ],
+  "message_count": 24,
+  "crawl_time": "2025-11-18T23:03:53.460642",
+  "source": "browser_automation"
+}

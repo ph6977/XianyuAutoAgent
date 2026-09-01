@@ -1,0 +1,449 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "包邮哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383735"
+    },
+    {
+      "role": "seller",
+      "content": "是的，我现在预约一下顺丰",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383749"
+    },
+    {
+      "role": "buyer",
+      "content": "收到没问题直接签收",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383755"
+    },
+    {
+      "role": "seller",
+      "content": "我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383759"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383763"
+    },
+    {
+      "role": "seller",
+      "content": "已预约顺丰11-13点来",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383767"
+    },
+    {
+      "role": "buyer",
+      "content": "👌",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383771"
+    },
+    {
+      "role": "buyer",
+      "content": "包邮哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383775"
+    },
+    {
+      "role": "seller",
+      "content": "是的，我现在预约一下顺丰",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383779"
+    },
+    {
+      "role": "buyer",
+      "content": "收到没问题直接签收",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383783"
+    },
+    {
+      "role": "seller",
+      "content": "我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383786"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383789"
+    },
+    {
+      "role": "seller",
+      "content": "已预约顺丰11-13点来",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383793"
+    },
+    {
+      "role": "buyer",
+      "content": "👌",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383796"
+    },
+    {
+      "role": "buyer",
+      "content": "用户_87209626(彩***伞)闲鱼号...",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383799"
+    },
+    {
+      "role": "seller",
+      "content": "提醒收货",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383803"
+    },
+    {
+      "role": "buyer",
+      "content": "昨天 09:22在线寄件运费【立减1.5元】 点击预约快递包邮哈是的，我现在预约一下顺丰已读收到没问题直接签收昨天 09:40已读我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈已读谢谢昨天 09:53图片预览已读已预约顺丰11-13点来已读昨天 12:04快递已完成取件，请支付快递费昨天 13:09👌昨天 14:04你已发货09:49图片预览09:55图片预览",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383806"
+    },
+    {
+      "role": "buyer",
+      "content": "包邮哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383810"
+    },
+    {
+      "role": "buyer",
+      "content": "包邮哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383813"
+    },
+    {
+      "role": "buyer",
+      "content": "包邮哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383817"
+    },
+    {
+      "role": "seller",
+      "content": "是的，我现在预约一下顺丰已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383820"
+    },
+    {
+      "role": "seller",
+      "content": "是的，我现在预约一下顺丰已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383824"
+    },
+    {
+      "role": "seller",
+      "content": "是的，我现在预约一下顺丰",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383827"
+    },
+    {
+      "role": "buyer",
+      "content": "收到没问题直接签收",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383830"
+    },
+    {
+      "role": "buyer",
+      "content": "收到没问题直接签收",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383834"
+    },
+    {
+      "role": "buyer",
+      "content": "收到没问题直接签收",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383838"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383841"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383844"
+    },
+    {
+      "role": "seller",
+      "content": "我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383848"
+    },
+    {
+      "role": "seller",
+      "content": "我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈已读",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383851"
+    },
+    {
+      "role": "seller",
+      "content": "我送个屏幕膜给你，本来贴遥控器上面的那张因为要拍屏幕原本状态，我撕掉了。我这边给一张全新贴膜你哈",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383854"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383857"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383861"
+    },
+    {
+      "role": "buyer",
+      "content": "谢谢",
+      "timestamp": 1763477171.274,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383865"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383868"
+    },
+    {
+      "role": "seller",
+      "content": "图片预览已读",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383872"
+    },
+    {
+      "role": "seller",
+      "content": "已预约顺丰11-13点来已读",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383875"
+    },
+    {
+      "role": "seller",
+      "content": "已预约顺丰11-13点来已读",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383879"
+    },
+    {
+      "role": "seller",
+      "content": "已预约顺丰11-13点来",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383882"
+    },
+    {
+      "role": "buyer",
+      "content": "👌",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383885"
+    },
+    {
+      "role": "buyer",
+      "content": "👌",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383888"
+    },
+    {
+      "role": "buyer",
+      "content": "👌",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383892"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383895"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383898"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383901"
+    },
+    {
+      "role": "buyer",
+      "content": "图片预览",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383905"
+    },
+    {
+      "role": "seller",
+      "content": "在线寄件运费【立减1.5元】 点击预约快递",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383908"
+    },
+    {
+      "role": "seller",
+      "content": "快递已完成取件，请支付快递费",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383911"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763477171.275,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:46:11.383914"
+    }
+  ],
+  "message_count": 49,
+  "crawl_time": "2025-11-18T22:46:11.388935",
+  "source": "browser_automation"
+}

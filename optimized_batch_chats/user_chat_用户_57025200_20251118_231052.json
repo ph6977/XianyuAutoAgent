@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "4.0和2.0哪个好用",
+      "timestamp": 1763477657.283,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318976"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477657.283,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318989"
+    },
+    {
+      "role": "seller",
+      "content": "最近比较多人用双屏的哈",
+      "timestamp": 1763477657.283,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318992"
+    },
+    {
+      "role": "buyer",
+      "content": "4.0和2.0哪个好用",
+      "timestamp": 1763477657.283,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318994"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477657.283,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318996"
+    },
+    {
+      "role": "seller",
+      "content": "最近比较多人用双屏的哈",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318997"
+    },
+    {
+      "role": "buyer",
+      "content": "用户_57025200(j***b)闲鱼号...",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.318999"
+    },
+    {
+      "role": "buyer",
+      "content": "10-03 21:344.0和2.0哪个好用亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读10-04 13:33在10-06 14:06最近比较多人用双屏的哈未读",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319001"
+    },
+    {
+      "role": "buyer",
+      "content": "4.0和2.0哪个好用",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319003"
+    },
+    {
+      "role": "buyer",
+      "content": "4.0和2.0哪个好用",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319005"
+    },
+    {
+      "role": "buyer",
+      "content": "4.0和2.0哪个好用",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319006"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319008"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319010"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319012"
+    },
+    {
+      "role": "seller",
+      "content": "最近比较多人用双屏的哈未读",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319013"
+    },
+    {
+      "role": "seller",
+      "content": "最近比较多人用双屏的哈未读",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319015"
+    },
+    {
+      "role": "seller",
+      "content": "最近比较多人用双屏的哈",
+      "timestamp": 1763477657.284,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:54:17.319016"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T22:54:17.323721",
+  "source": "browser_automation"
+}

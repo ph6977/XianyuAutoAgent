@@ -1,0 +1,206 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "可以置换嘛",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430615"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430622"
+    },
+    {
+      "role": "buyer",
+      "content": "我的是n3",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430623"
+    },
+    {
+      "role": "seller",
+      "content": "你好 不置换哦亲亲~",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430625"
+    },
+    {
+      "role": "buyer",
+      "content": "可以置换嘛",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430625"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430627"
+    },
+    {
+      "role": "buyer",
+      "content": "我的是n3",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430628"
+    },
+    {
+      "role": "seller",
+      "content": "你好 不置换哦亲亲~",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430629"
+    },
+    {
+      "role": "buyer",
+      "content": "SRR鑫源(t***7)闲鱼号...",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430630"
+    },
+    {
+      "role": "buyer",
+      "content": "11-10 20:31可以置换嘛亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读我的是n311-11 09:08你好 不置换哦亲亲~已读",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430631"
+    },
+    {
+      "role": "buyer",
+      "content": "可以置换嘛",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430632"
+    },
+    {
+      "role": "buyer",
+      "content": "可以置换嘛",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430633"
+    },
+    {
+      "role": "buyer",
+      "content": "可以置换嘛",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430634"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430635"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430636"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430637"
+    },
+    {
+      "role": "buyer",
+      "content": "我的是n3",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430638"
+    },
+    {
+      "role": "buyer",
+      "content": "我的是n3",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430639"
+    },
+    {
+      "role": "buyer",
+      "content": "我的是n3",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430640"
+    },
+    {
+      "role": "seller",
+      "content": "你好 不置换哦亲亲~已读",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430641"
+    },
+    {
+      "role": "seller",
+      "content": "你好 不置换哦亲亲~已读",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430642"
+    },
+    {
+      "role": "seller",
+      "content": "你好 不置换哦亲亲~",
+      "timestamp": 1763477370.381,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:49:30.430643"
+    }
+  ],
+  "message_count": 22,
+  "crawl_time": "2025-11-18T22:49:30.433441",
+  "source": "browser_automation"
+}

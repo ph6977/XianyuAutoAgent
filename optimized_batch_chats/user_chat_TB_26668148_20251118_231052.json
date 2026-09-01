@@ -1,0 +1,206 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "还能租么？",
+      "timestamp": 1763477712.852,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897193"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477712.852,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897201"
+    },
+    {
+      "role": "buyer",
+      "content": "Insta go3s 9.28-10.7 10天 每天20元？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897204"
+    },
+    {
+      "role": "seller",
+      "content": "你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897206"
+    },
+    {
+      "role": "buyer",
+      "content": "还能租么？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897209"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897211"
+    },
+    {
+      "role": "buyer",
+      "content": "Insta go3s 9.28-10.7 10天 每天20元？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897213"
+    },
+    {
+      "role": "seller",
+      "content": "你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897215"
+    },
+    {
+      "role": "buyer",
+      "content": "TB_26668148(一***啊)闲鱼号...",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897217"
+    },
+    {
+      "role": "buyer",
+      "content": "09-26 07:47还能租么？亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读Insta go3s 9.28-10.7 10天 每天20元？09-26 09:15你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈未读",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897219"
+    },
+    {
+      "role": "buyer",
+      "content": "还能租么？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897221"
+    },
+    {
+      "role": "buyer",
+      "content": "还能租么？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897222"
+    },
+    {
+      "role": "buyer",
+      "content": "还能租么？",
+      "timestamp": 1763477712.853,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897224"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897227"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897229"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897230"
+    },
+    {
+      "role": "buyer",
+      "content": "Insta go3s 9.28-10.7 10天 每天20元？",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897232"
+    },
+    {
+      "role": "buyer",
+      "content": "Insta go3s 9.28-10.7 10天 每天20元？",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897234"
+    },
+    {
+      "role": "buyer",
+      "content": "Insta go3s 9.28-10.7 10天 每天20元？",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897235"
+    },
+    {
+      "role": "seller",
+      "content": "你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈未读",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897237"
+    },
+    {
+      "role": "seller",
+      "content": "你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈未读",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897238"
+    },
+    {
+      "role": "seller",
+      "content": "你好~ 9.28-10.7十天，9.27到手，10.8还~go3s标准套装200r~顺丰包邮寄出哈",
+      "timestamp": 1763477712.855,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:12.897240"
+    }
+  ],
+  "message_count": 22,
+  "crawl_time": "2025-11-18T22:55:12.900170",
+  "source": "browser_automation"
+}

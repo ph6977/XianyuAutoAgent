@@ -1,0 +1,170 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "问29",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427650"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427662"
+    },
+    {
+      "role": "seller",
+      "content": "没有啦宝子",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427666"
+    },
+    {
+      "role": "buyer",
+      "content": "问29",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427670"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427672"
+    },
+    {
+      "role": "seller",
+      "content": "没有啦宝子",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427675"
+    },
+    {
+      "role": "buyer",
+      "content": "natin780(t***7)闲鱼号...",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427678"
+    },
+    {
+      "role": "buyer",
+      "content": "08-25 22:23问29该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读08-25 23:17没有啦宝子已读",
+      "timestamp": 1763478211.395,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427681"
+    },
+    {
+      "role": "buyer",
+      "content": "问29",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427683"
+    },
+    {
+      "role": "buyer",
+      "content": "问29",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427686"
+    },
+    {
+      "role": "buyer",
+      "content": "问29",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427689"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427691"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427694"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427696"
+    },
+    {
+      "role": "seller",
+      "content": "没有啦宝子已读",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427699"
+    },
+    {
+      "role": "seller",
+      "content": "没有啦宝子已读",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427701"
+    },
+    {
+      "role": "seller",
+      "content": "没有啦宝子",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427704"
+    },
+    {
+      "role": "seller",
+      "content": "该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额",
+      "timestamp": 1763478211.396,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:03:31.427706"
+    }
+  ],
+  "message_count": 18,
+  "crawl_time": "2025-11-18T23:03:31.432047",
+  "source": "browser_automation"
+}

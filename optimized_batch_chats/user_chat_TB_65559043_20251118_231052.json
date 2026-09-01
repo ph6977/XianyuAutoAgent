@@ -1,0 +1,161 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "嗨喽，11月23号当天用，24号还，请问还有不",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814550"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814559"
+    },
+    {
+      "role": "seller",
+      "content": "你好，22到手24还，180顺丰包邮寄出",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814561"
+    },
+    {
+      "role": "buyer",
+      "content": "嗨喽，11月23号当天用，24号还，请问还有不",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814563"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814564"
+    },
+    {
+      "role": "seller",
+      "content": "你好，22到手24还，180顺丰包邮寄出",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814566"
+    },
+    {
+      "role": "buyer",
+      "content": "TB_65559043(j***j)闲鱼号...",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814568"
+    },
+    {
+      "role": "buyer",
+      "content": "11-11 23:14嗨喽，11月23号当天用，24号还，请问还有不亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读11-11 23:32你好，22到手24还，180顺丰包邮寄出已读",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814569"
+    },
+    {
+      "role": "buyer",
+      "content": "嗨喽，11月23号当天用，24号还，请问还有不",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814570"
+    },
+    {
+      "role": "buyer",
+      "content": "嗨喽，11月23号当天用，24号还，请问还有不",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814572"
+    },
+    {
+      "role": "buyer",
+      "content": "嗨喽，11月23号当天用，24号还，请问还有不",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814573"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814575"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814576"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814578"
+    },
+    {
+      "role": "seller",
+      "content": "你好，22到手24还，180顺丰包邮寄出已读",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814579"
+    },
+    {
+      "role": "seller",
+      "content": "你好，22到手24还，180顺丰包邮寄出已读",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814581"
+    },
+    {
+      "role": "seller",
+      "content": "你好，22到手24还，180顺丰包邮寄出",
+      "timestamp": 1763477303.782,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:48:23.814582"
+    }
+  ],
+  "message_count": 17,
+  "crawl_time": "2025-11-18T22:48:23.817500",
+  "source": "browser_automation"
+}

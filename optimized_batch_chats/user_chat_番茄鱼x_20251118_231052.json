@@ -1,0 +1,314 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "你好10.3索尼胖卡4还有档期吗",
+      "timestamp": 1763477746.712,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768167"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477746.712,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768179"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有的",
+      "timestamp": 1763477746.712,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768183"
+    },
+    {
+      "role": "buyer",
+      "content": "2号收4号寄回多少钱呢",
+      "timestamp": 1763477746.712,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768186"
+    },
+    {
+      "role": "seller",
+      "content": "10.2到手，10.4寄回，380~顺丰包邮寄出",
+      "timestamp": 1763477746.712,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768189"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768192"
+    },
+    {
+      "role": "buyer",
+      "content": "你好10.3索尼胖卡4还有档期吗",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768194"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768197"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有的",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768200"
+    },
+    {
+      "role": "buyer",
+      "content": "2号收4号寄回多少钱呢",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768202"
+    },
+    {
+      "role": "seller",
+      "content": "10.2到手，10.4寄回，380~顺丰包邮寄出",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768205"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768208"
+    },
+    {
+      "role": "buyer",
+      "content": "番茄鱼x(x***5)闲鱼号...",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768210"
+    },
+    {
+      "role": "buyer",
+      "content": "09-23 20:38你好10.3索尼胖卡4还有档期吗亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读你好，有的已读2号收4号寄回多少钱呢10.2到手，10.4寄回，380~顺丰包邮寄出已读好吧已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768213"
+    },
+    {
+      "role": "buyer",
+      "content": "你好10.3索尼胖卡4还有档期吗",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768215"
+    },
+    {
+      "role": "buyer",
+      "content": "你好10.3索尼胖卡4还有档期吗",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768218"
+    },
+    {
+      "role": "buyer",
+      "content": "你好10.3索尼胖卡4还有档期吗",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768220"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768222"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768225"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768227"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有的已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768230"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有的已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768232"
+    },
+    {
+      "role": "seller",
+      "content": "你好，有的",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768235"
+    },
+    {
+      "role": "buyer",
+      "content": "2号收4号寄回多少钱呢",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768237"
+    },
+    {
+      "role": "buyer",
+      "content": "2号收4号寄回多少钱呢",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768239"
+    },
+    {
+      "role": "buyer",
+      "content": "2号收4号寄回多少钱呢",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768241"
+    },
+    {
+      "role": "seller",
+      "content": "10.2到手，10.4寄回，380~顺丰包邮寄出已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768244"
+    },
+    {
+      "role": "seller",
+      "content": "10.2到手，10.4寄回，380~顺丰包邮寄出已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768246"
+    },
+    {
+      "role": "seller",
+      "content": "10.2到手，10.4寄回，380~顺丰包邮寄出",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768248"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768251"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768253"
+    },
+    {
+      "role": "buyer",
+      "content": "好吧",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768256"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768258"
+    },
+    {
+      "role": "seller",
+      "content": "已读",
+      "timestamp": 1763477746.713,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:55:46.768261"
+    }
+  ],
+  "message_count": 34,
+  "crawl_time": "2025-11-18T22:55:46.772067",
+  "source": "browser_automation"
+}

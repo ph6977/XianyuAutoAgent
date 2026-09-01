@@ -1,0 +1,359 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527538"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527606"
+    },
+    {
+      "role": "buyer",
+      "content": "葡萄冰冰冰(t***2)闲鱼号...",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527611"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527615"
+    },
+    {
+      "role": "buyer",
+      "content": "08-25 11:51你已发货该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额08-27 00:00请确认商品寄回地址请尽快确认商品寄回地址 去确认08-30 20:36买家已寄回该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额09-02 09:23我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额请确认退回金额我已验货完成，请尽快确认已读09-02 12:19买家已确认退回金额，交易成功该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读我完成了评价期待你的评价去评价09-02 14:35我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527619"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527623"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527626"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527629"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527632"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527635"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527639"
+    },
+    {
+      "role": "seller",
+      "content": "宝宝有空的话可以发3图+20字好评哦~下次可以直接免5R优惠~",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527641"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527644"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527647"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527650"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价已读",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527652"
+    },
+    {
+      "role": "seller",
+      "content": "你已发货",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527654"
+    },
+    {
+      "role": "seller",
+      "content": "该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527657"
+    },
+    {
+      "role": "buyer",
+      "content": "请确认商品寄回地址请尽快确认商品寄回地址 去确认",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527660"
+    },
+    {
+      "role": "seller",
+      "content": "买家已寄回",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527662"
+    },
+    {
+      "role": "seller",
+      "content": "该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527664"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527667"
+    },
+    {
+      "role": "buyer",
+      "content": "我已寄回，请尽快确认",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527670"
+    },
+    {
+      "role": "buyer",
+      "content": "您需在7日内完成商品验收和确认退回金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527672"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额我已验货完成，请尽快确认",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527675"
+    },
+    {
+      "role": "seller",
+      "content": "请确认退回金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527677"
+    },
+    {
+      "role": "seller",
+      "content": "我已验货完成，请尽快确认",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527680"
+    },
+    {
+      "role": "seller",
+      "content": "买家已确认退回金额，交易成功",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527683"
+    },
+    {
+      "role": "seller",
+      "content": "该买家近期有1笔租赁订单未完结, 请谨慎设置押金金额",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527685"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价期待你的评价去评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527688"
+    },
+    {
+      "role": "buyer",
+      "content": "我完成了评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527690"
+    },
+    {
+      "role": "buyer",
+      "content": "期待你的评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527693"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527695"
+    },
+    {
+      "role": "seller",
+      "content": "去评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527698"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价已完成互评，可以查看评价查看评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527700"
+    },
+    {
+      "role": "seller",
+      "content": "我完成了评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527702"
+    },
+    {
+      "role": "seller",
+      "content": "已完成互评，可以查看评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527704"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527707"
+    },
+    {
+      "role": "seller",
+      "content": "查看评价",
+      "timestamp": 1763478089.428,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T23:01:29.527709"
+    }
+  ],
+  "message_count": 39,
+  "crawl_time": "2025-11-18T23:01:29.531158",
+  "source": "browser_automation"
+}

@@ -1,0 +1,260 @@
+{
+  "user_nickname": "当前用户",
+  "messages": [
+    {
+      "role": "buyer",
+      "content": "租三天什么价？",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.579989"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580000"
+    },
+    {
+      "role": "seller",
+      "content": "你好哇 三天是66r",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580003"
+    },
+    {
+      "role": "buyer",
+      "content": "价格有少吗",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580007"
+    },
+    {
+      "role": "seller",
+      "content": "不议价啦宝子",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580009"
+    },
+    {
+      "role": "buyer",
+      "content": "租三天什么价？",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580013"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580015"
+    },
+    {
+      "role": "seller",
+      "content": "你好哇 三天是66r",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580018"
+    },
+    {
+      "role": "buyer",
+      "content": "价格有少吗",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580021"
+    },
+    {
+      "role": "seller",
+      "content": "不议价啦宝子",
+      "timestamp": 1763477635.541,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580024"
+    },
+    {
+      "role": "buyer",
+      "content": "已读不回丨(t***2)闲鱼号...",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580026"
+    },
+    {
+      "role": "buyer",
+      "content": "10-08 18:55租三天什么价？亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读10-08 19:16你好哇 三天是66r已读价格有少吗10-08 19:46不议价啦宝子未读不想宝贝被砍价? 设置不砍价回复",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580029"
+    },
+    {
+      "role": "buyer",
+      "content": "租三天什么价？",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580031"
+    },
+    {
+      "role": "buyer",
+      "content": "租三天什么价？",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580034"
+    },
+    {
+      "role": "buyer",
+      "content": "租三天什么价？",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580036"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580039"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复已读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580042"
+    },
+    {
+      "role": "seller",
+      "content": "亲，我现在不在，喜欢可以拍下，有问题留言哦～会尽快回复",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580044"
+    },
+    {
+      "role": "seller",
+      "content": "你好哇 三天是66r已读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580047"
+    },
+    {
+      "role": "seller",
+      "content": "你好哇 三天是66r已读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580050"
+    },
+    {
+      "role": "seller",
+      "content": "你好哇 三天是66r",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580052"
+    },
+    {
+      "role": "buyer",
+      "content": "价格有少吗",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580055"
+    },
+    {
+      "role": "buyer",
+      "content": "价格有少吗",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580057"
+    },
+    {
+      "role": "buyer",
+      "content": "价格有少吗",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580060"
+    },
+    {
+      "role": "seller",
+      "content": "不议价啦宝子未读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580062"
+    },
+    {
+      "role": "seller",
+      "content": "不议价啦宝子未读",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580064"
+    },
+    {
+      "role": "seller",
+      "content": "不议价啦宝子",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580067"
+    },
+    {
+      "role": "seller",
+      "content": "不想宝贝被砍价? 设置不砍价回复",
+      "timestamp": 1763477635.542,
+      "time_text": "",
+      "element_class": "",
+      "element_id": "",
+      "parsed_at": "2025-11-18T22:53:55.580069"
+    }
+  ],
+  "message_count": 28,
+  "crawl_time": "2025-11-18T22:53:55.584332",
+  "source": "browser_automation"
+}
