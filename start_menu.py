@@ -39,7 +39,7 @@ def run_smart_reply_test():
         
         # 尝试导入并启动XianyuBot
         try:
-            from xianyu_bot_components.xianyu_bot import main
+            from src.bot.xianyu_bot import main
             import os
             from dotenv import load_dotenv
             load_dotenv()  # 加载环境变量
@@ -207,7 +207,7 @@ def run_batch_message_crawler():
         # 直接使用基础版爬虫（我们修改过的版本）
         try:
             print("正在导入基础版爬虫工具...")
-            from crawler_components.tools.batch_user_crawler import BatchUserCrawler
+            from src.crawler.tools.batch_user_crawler import BatchUserCrawler
             crawler = BatchUserCrawler(headless=False)
             crawler_type = "基础版"
             print(f"发现{crawler_type}批量用户爬虫工具")
@@ -309,8 +309,8 @@ def run_chat_analysis():
         print("聊天记录分析功能")
         print("正在导入交易分析模块...")
         
-        from xianyu_bot_components.trading_analyzer import TradingAnalyzer
-        from xianyu_bot_components.core.context_manager import ChatContextManager
+        from src.bot.trading_analyzer import TradingAnalyzer
+        from src.core.context_manager import ChatContextManager
         
         context_manager = ChatContextManager()
         analyzer = TradingAnalyzer(context_manager)
@@ -394,7 +394,7 @@ def run_rental_consultant():
         from dotenv import load_dotenv
         load_dotenv()
         
-        from feishu_knowledge_base.feishu_sheet_reader import FeishuSheetReader
+        from src.knowledge.feishu_sheet_reader import FeishuSheetReader
         import os
         from datetime import datetime
         

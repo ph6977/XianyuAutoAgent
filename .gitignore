@@ -50,4 +50,14 @@ htmlcov/
 .tox/
 .nox/
 .hypothesis/
-.coverage.* 
+.coverage.*
+
+# 运行时缓存目录
+.cache/
+
+# 测试报告
+test_report_*.json
+test_report_*.html
+
+# 意图分析日志
+src/agents/intent_log.txt 
