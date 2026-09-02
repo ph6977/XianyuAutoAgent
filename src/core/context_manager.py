@@ -1,5 +1,35 @@
 """
 对话上下文管理器 - 管理聊天历史和商品信息
+
+本模块负责管理对话上下文，包括：
+1. 聊天历史存储（JSON文件持久化）
+2. 商品信息缓存
+3. 会话实体追踪（TTL过期机制）
+4. 多位置管理
+5. 议价事件追踪
+
+数据结构：
+{
+    "chats": {
+        "chat_id": {
+            "item_id": "商品ID",
+            "messages": [
+                {"role": "user/assistant", "content": "消息内容", "timestamp": 时间戳}
+            ]
+        }
+    },
+    "items": {
+        "item_id": {
+            "price": "价格",
+            "description": "描述",
+            ...
+        }
+    },
+    "metadata": {
+        "created_at": "创建时间",
+        "last_updated": "最后更新时间"
+    }
+}
 """
 
 import json
@@ -10,21 +40,40 @@ from loguru import logger
 
 
 class ChatContextManager:
-    """聊天上下文管理器"""
+    """
+    聊天上下文管理器
+    
+    负责管理对话上下文，包括：
+    - 聊天历史存储
+    - 商品信息缓存
+    - 会话实体追踪
+    - 多位置管理
+    - 议价事件追踪
+    """
 
     def __init__(self, db_path: str = "chat_history.json"):
+        """
+        初始化上下文管理器
+        
+        参数：
+            db_path: 数据库文件路径（JSON格式）
+        """
         self.db_path = db_path
         self._ensure_db_exists()
-        # 添加会话实体映射，用于追踪对话中的重要实体
+        # 会话实体映射，用于追踪对话中的重要实体（如位置、设备类型等）
         self.session_entities = {}
 
     def _ensure_db_exists(self):
-        """确保数据库文件存在"""
+        """
+        确保数据库文件存在
+        
+        如果文件不存在，创建默认结构
+        """
         if not os.path.exists(self.db_path):
             with open(self.db_path, 'w', encoding='utf-8') as f:
                 json.dump({
-                    "chats": {},
-                    "items": {},
+                    "chats": {},  # 聊天历史
+                    "items": {},  # 商品信息缓存
                     "metadata": {
                         "created_at": time.time(),
                         "last_updated": time.time()
@@ -32,11 +81,36 @@ class ChatContextManager:
                 }, f, ensure_ascii=False, indent=2)
 
     def _get_session_key(self, user_id: str, chat_id: str = None) -> str:
-        """获取会话键值，优先使用chat_id，否则使用user_id"""
+        """
+        获取会话键值
+        
+        优先使用chat_id，否则使用user_id
+        
+        参数：
+            user_id: 用户ID
+            chat_id: 聊天ID
+            
+        返回：
+            str: 会话键值
+        """
         return chat_id if chat_id else user_id
 
     def store_entity(self, user_id: str, chat_id: str, entity_type: str, entity_value: str, ttl: int = 3600):
-        """存储实体到会话上下文中"""
+        """
+        存储实体到会话上下文中
+        
+        实体是对话中提取的重要信息，如：
+        - 位置（北京、上海等）
+        - 设备类型（iPhone、相机等）
+        - 时间参考（明天、下周等）
+        
+        参数：
+            user_id: 用户ID
+            chat_id: 聊天ID
+            entity_type: 实体类型
+            entity_value: 实体值
+            ttl: 过期时间（秒），默认1小时
+        """
         session_key = self._get_session_key(user_id, chat_id)
         
         if session_key not in self.session_entities:
@@ -56,7 +130,17 @@ class ChatContextManager:
         }
 
     def get_entity(self, user_id: str, chat_id: str, entity_type: str) -> Optional[str]:
-        """从会话上下文中获取实体"""
+        """
+        从会话上下文中获取实体
+        
+        参数：
+            user_id: 用户ID
+            chat_id: 聊天ID
+            entity_type: 实体类型
+            
+       返回：
+            Optional[str]: 实体值，不存在或已过期返回None
+        """
         session_key = self._get_session_key(user_id, chat_id)
         
         if session_key not in self.session_entities:
@@ -76,7 +160,16 @@ class ChatContextManager:
         return None
 
     def get_all_entities(self, user_id: str, chat_id: str) -> Dict[str, str]:
-        """获取会话中的所有实体"""
+        """
+        获取会话中的所有实体
+        
+        参数：
+            user_id: 用户ID
+            chat_id: 聊天ID
+            
+        返回：
+            Dict[str, str]: 实体类型到实体值的映射
+        """
         session_key = self._get_session_key(user_id, chat_id)
         entities = {}
         
@@ -84,7 +177,7 @@ class ChatContextManager:
             if session_key in self.session_entities:
                 session_data = self.session_entities[session_key]
                 
-                # 处理旧的实体存储格式
+                # 处理实体数据
                 if "entities" in session_data and isinstance(session_data["entities"], dict):
                     for entity_type, entity_data in session_data["entities"].items():
                         if isinstance(entity_data, dict) and "expires_at" in entity_data and "value" in entity_data:
@@ -104,7 +197,11 @@ class ChatContextManager:
             return {}
 
     def clear_expired_entities(self):
-        """清理过期的实体"""
+        """
+        清理过期的实体
+        
+        定期调用此方法，防止内存无限增长
+        """
         current_time = time.time()
         sessions_to_remove = []
         
@@ -122,9 +219,9 @@ class ChatContextManager:
             for entity_type in entities_to_remove:
                 del session_data["entities"][entity_type]
             
-            # 如果会话中没有实体了，考虑删除整个会话（可以设置一个最小存活时间）
+            # 如果会话中没有实体了，删除整个会话（超过2小时）
             if not session_data["entities"]:
-                if current_time - session_data.get("created_at", 0) > 7200:  # 2小时
+                if current_time - session_data.get("created_at", 0) > 7200:
                     sessions_to_remove.append(session_key)
         
         # 删除过期的会话
@@ -132,9 +229,17 @@ class ChatContextManager:
             if session_key in self.session_entities:
                 del self.session_entities[session_key]
 
-    # 新增多位置管理方法
+    # 多位置管理方法
     def store_multiple_locations(self, user_id: str, chat_id: str, locations: List[str], ttl: int = 3600):
-        """存储多个位置到会话上下文中"""
+        """
+        存储多个位置到会话上下文中
+        
+        参数：
+            user_id: 用户ID
+            chat_id: 聊天ID
+            locations: 位置列表
+            ttl: 过期时间（秒）
+        """
         session_key = self._get_session_key(user_id, chat_id)
         
         if session_key not in self.session_entities:
@@ -148,7 +253,8 @@ class ChatContextManager:
         for location in locations:
             self.session_entities[session_key]['locations'].append({
                 'location': location,
-                'timestamp': current_time
+                'timestamp': current_time,
+                'expires_at': current_time + ttl
             })
         
         # 设置过期时间

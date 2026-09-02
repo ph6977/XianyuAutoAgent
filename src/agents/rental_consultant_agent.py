@@ -141,25 +141,32 @@ class RentalConsultantAgent:
         """
         生成回复
         
-        Args:
+        这是租赁顾问的核心方法，流程：
+        1. 分析用户需求（提取设备类型、租期等）
+        2. 查询飞书知识库（获取设备库存和价格）
+        3. 生成租赁建议
+        4. 返回回复
+        
+        参数：
             user_message: 用户消息
             item_description: 商品描述
             context: 上下文信息
             user_id: 用户ID
             chat_id: 聊天ID
             
-        Returns:
-            回复内容
+        返回：
+            str: 生成的租赁建议
         """
         try:
-            # 1. 分析用户意图
+            # 1. 分析用户意图（使用LLM提取关键信息）
             intent_analysis = self._analyze_user_intent(user_message, item_description, context, user_id, chat_id)
             logger.info(f"意图分析结果: {intent_analysis}")
             
-            # 2. 根据意图类型处理
+            # 2. 根据意图类型分发处理
             intent_type = intent_analysis.get('intent_type', 'general_inquiry')
             
             if intent_type == 'availability_check':
+                # 库存查询：根据查询策略选择不同的处理方式
                 if intent_analysis.get('query_strategy') == 'comprehensive':
                     return self._handle_comprehensive_availability(intent_analysis, item_description, context, user_message)
                 elif intent_analysis.get('query_strategy') == 'time_first':
@@ -167,10 +174,13 @@ class RentalConsultantAgent:
                 elif intent_analysis.get('query_strategy') == 'location_first':
                     return self._handle_location_first_availability(intent_analysis, item_description, context)
             elif intent_type == 'location_inquiry':
+                # 位置查询：询问用户所在城市
                 return self._handle_location_inquiry(intent_analysis, item_description, context)
             elif intent_type == 'date_inquiry':
+                # 日期查询：询问用户想租的时间
                 return self._handle_date_inquiry(intent_analysis, item_description, context)
             else:
+                # 一般咨询：处理其他租赁相关问题
                 return self._handle_general_inquiry(intent_analysis, user_message, item_description, context)
                 
         except Exception as e:
@@ -181,19 +191,26 @@ class RentalConsultantAgent:
         """
         分析用户意图
         
-        Args:
+        使用LLM分析用户消息，提取：
+        - 意图类型（库存查询、位置查询、日期查询、一般咨询）
+        - 设备类型（手机、相机等）
+        - 租期（几天、几周等）
+        - 位置（城市）
+        - 日期（具体日期或相对日期）
+        
+        参数：
             user_message: 用户消息
             item_description: 商品描述
             context: 上下文信息
             user_id: 用户ID
             chat_id: 聊天ID
             
-        Returns:
-            意图分析结果
+        返回：
+            Dict: 意图分析结果
         """
         today_str = datetime.now().strftime('%Y-%m-%d')
         
-        # 从上下文管理器获取实体信息
+        # 从上下文管理器获取实体信息（之前对话中提取的信息）
         context_entities = {}
         if self.context_manager and user_id:
             context_entities = self.context_manager.get_all_entities(user_id, chat_id or user_id)
@@ -207,11 +224,11 @@ class RentalConsultantAgent:
                 # 跳过内部使用的键
                 if entity_type in ["entities", "locations"]:
                     continue
-                # 确保值是字符串类型
                 if entity_value is None:
                     continue
                 entity_value_str = str(entity_value)
                 
+                # 格式化不同类型的实体
                 if entity_type == "location":
                     context_items.append(f"用户位置: {entity_value_str}")
                 elif entity_type == "device_type":
@@ -226,6 +243,7 @@ class RentalConsultantAgent:
             if context_items:
                 context_info = "会话上下文: " + ", ".join(context_items) + "\n"
         
+        # 构建LLM提示词
         prompt = f"""
 {context_info}
 你是一个专业的租赁顾问AI助手，请分析用户消息的意图并提取关键信息。

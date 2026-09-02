@@ -2,7 +2,23 @@
 # -*- coding: utf-8 -*-
 """
 关键问题回复系统 - 意图分析器
-通过关键词匹配和DeepSeek语义分析，判断用户问题是否需要回复
+
+本模块实现了双层意图分析系统：
+1. 关键词快速匹配（零成本）
+2. LLM语义分析（高成本但准确）
+
+工作流程：
+用户消息 → 关键词匹配 → 匹配成功？ → 是 → 返回匹配的Agent
+                          ↓
+                          否
+                          ↓
+                     LLM语义分析 → 返回匹配的Agent
+
+技术特点：
+- 双层分析：关键词快速匹配 + LLM语义分析
+- 上下文感知：利用对话历史中的实体信息
+- 可配置：通过agent_config.md配置Agent和关键词
+- 日志记录：记录意图分析结果
 """
 
 import os
@@ -21,15 +37,27 @@ from src.utils.sensitive_keywords import SensitiveKeywordDetector
 
 
 class IntentAnalyzer:
-    """意图分析器"""
+    """
+    意图分析器
+    
+    实现双层意图分析：
+    1. 关键词快速匹配（零成本）
+    2. LLM语义分析（高成本但准确）
+    """
     
     def __init__(self, config_path: str = None, context_manager=None):
-        """初始化意图分析器"""
+        """
+        初始化意图分析器
+        
+        参数：
+            config_path: Agent配置文件路径
+            context_manager: 上下文管理器
+        """
         if config_path is None:
             config_path = os.path.join(os.path.dirname(__file__), 'agent_config.md')
         
         self.config_path = config_path
-        self.agents_config = self._load_config()
+        self.agents_config = self._load_config()  # 加载Agent配置
         self.client = OpenAI(
             api_key=os.getenv("API_KEY") or os.getenv("DEEPSEEK_API_KEY"),
             base_url=os.getenv("MODEL_BASE_URL", "https://api.deepseek.com")
@@ -39,14 +67,25 @@ class IntentAnalyzer:
         # 初始化敏感词检测器
         self.sensitive_detector = SensitiveKeywordDetector()
         
-        # 上下文管理器
+        # 上下文管理器（用于获取对话历史中的实体信息）
         self.context_manager = context_manager
         
         # 日志文件路径
         self.log_file = os.path.join(os.path.dirname(__file__), 'intent_log.txt')
         
     def _load_config(self) -> Dict:
-        """加载Agent配置"""
+        """
+        加载Agent配置
+        
+        从agent_config.md文件加载Agent配置，包括：
+        - Agent名称
+        - 关键词列表
+        - 匹配度阈值
+        - 服务描述
+        
+        返回：
+            Dict: Agent名称到配置的映射
+        """
         agents = {}
         
         try:
@@ -67,7 +106,7 @@ class IntentAnalyzer:
                 
                 # 检测Agent标题
                 if line.startswith('## ') and 'Agent' in line:
-                    # 保存上一个Agent
+                    # 保存上一个Agent配置
                     if current_agent and current_keywords:
                         agents[current_agent] = {
                             'keywords': current_keywords,
@@ -75,7 +114,7 @@ class IntentAnalyzer:
                             'description': current_description
                         }
                     
-                    # 开始新的Agent
+                    # 开始新的Agent配置
                     current_agent = line.replace('## ', '').strip()
                     current_keywords = []
                     current_threshold = 80
@@ -106,7 +145,7 @@ class IntentAnalyzer:
                     else:
                         current_description = line
             
-            # 保存最后一个Agent
+            # 保存最后一个Agent配置
             if current_agent and current_keywords:
                 agents[current_agent] = {
                     'keywords': current_keywords,
@@ -125,7 +164,17 @@ class IntentAnalyzer:
             return {}
     
     def _keyword_match(self, question: str) -> List[str]:
-        """关键词匹配"""
+        """
+        关键词匹配
+        
+        第一层：快速关键词匹配（零成本）
+        
+        参数：
+            question: 用户问题
+            
+        返回：
+            List[str]: 匹配到的Agent名称列表
+        """
         matched_agents = []
         question_lower = question.lower()
         
@@ -139,7 +188,18 @@ class IntentAnalyzer:
         return matched_agents
     
     def _semantic_match_with_context(self, question: str, context_entities: Dict[str, str]) -> List[Tuple[str, float]]:
-        """使用上下文实体进行语义匹配"""
+        """
+        使用上下文实体进行语义匹配
+        
+        第二层：LLM语义分析（高成本但准确）
+        
+        参数：
+            question: 用户问题
+            context_entities: 上下文实体信息
+            
+        返回：
+            List[Tuple[str, float]]: Agent名称和匹配度的列表
+        """
         matched_agents = []
         
         try:

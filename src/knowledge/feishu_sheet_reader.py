@@ -1,8 +1,21 @@
-6#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 飞书表格读取器
-用于读取设备库存状态、租赁情况等信息
+
+本模块实现了与飞书电子表格的集成，用于：
+1. 获取设备库存状态
+2. 查询设备租赁情况
+3. 检查设备可用性
+
+工作流程：
+调用飞书API → 获取表格数据 → 解析设备状态 → 返回可用设备列表
+
+技术特点：
+- OAuth2认证（自动获取访问令牌）
+- 表格数据解析（支持合并单元格）
+- 设备状态判断（空白/数字表示不同状态）
+- 缓存机制（减少API调用）
 """
 
 import os
@@ -13,15 +26,27 @@ from typing import List, Dict, Optional, Tuple
 from loguru import logger
 
 class FeishuSheetReader:
-    """飞书表格读取器"""
+    """
+    飞书表格读取器
+    
+    负责与飞书电子表格交互，获取设备库存和租赁信息
+    """
     
     def __init__(self, app_id: str, app_secret: str, spreadsheet_token: str, sheet_id: str):
-        """初始化飞书表格读取器"""
+        """
+        初始化飞书表格读取器
+        
+        参数：
+            app_id: 飞书应用ID
+            app_secret: 飞书应用密钥
+            spreadsheet_token: 电子表格token
+            sheet_id: 工作表ID
+        """
         self.app_id = app_id
         self.app_secret = app_secret
         self.spreadsheet_token = spreadsheet_token
         self.sheet_id = sheet_id
-        self.access_token = None
+        self.access_token = None  # 访问令牌（缓存）
         self.session = requests.Session()
         
         # 设置请求头
@@ -30,7 +55,15 @@ class FeishuSheetReader:
         })
     
     def _get_access_token(self) -> str:
-        """获取飞书访问令牌"""
+        """
+        获取飞书访问令牌
+        
+        使用OAuth2认证获取访问令牌
+        令牌有效期：2小时
+        
+        返回：
+            str: 访问令牌
+        """
         if self.access_token:
             return self.access_token
         
@@ -49,14 +82,14 @@ class FeishuSheetReader:
             if result.get('code') != 0:
                 raise Exception(f"获取访问令牌失败: {result.get('msg')}")
             
-            # 修复：飞书API返回的是tenant_access_token，不是data.access_token
+            # 解析访问令牌（兼容不同响应格式）
             if 'tenant_access_token' in result:
                 self.access_token = result['tenant_access_token']
             elif 'data' in result and 'access_token' in result['data']:
                 self.access_token = result['data']['access_token']
             else:
                 raise Exception(f"无法找到访问令牌，响应结构: {result}")
-            # 设置60秒后过期，确保在实际使用前重新获取
+            
             return self.access_token
             
         except Exception as e:
@@ -67,16 +100,19 @@ class FeishuSheetReader:
         """
         获取表格数据，返回结构化数据
         
-        表格结构说明（基于实际截图分析）：
-        第一行：月份标识（如"10月"在C1，"11月"在AH1，合并单元格）
-        第二行：列名（"机型"、"所在地"、1-31日期数字、1-30日期数字）
-        第三行及以后：设备数据行
+        表格结构说明：
+        - 第一行：月份标识（如"10月"、"11月"）
+        - 第二行：列名（"机型"、"所在地"、1-31日期数字）
+        - 第三行及以后：设备数据行
         
-        重要规则：
-        - 月份标识可能有合并单元格，但API返回时会在对应位置显示
-        - 日期列使用纯数字（1, 2, 3, ..., 31）
-        - 白色格子在API中返回为None，表示设备可租用
-        - 不需要跨月状态继承，每个月数据独立
+        设备状态说明：
+        - 空白/None：设备可租用（白色格子）
+        - 数字1：设备在物流中（寄出）
+        - 数字2：设备在客户手中（租赁中）
+        - 数字3：设备在物流中（寄回）
+        
+        返回：
+            Dict: 结构化表格数据
         """
         try:
             access_token = self._get_access_token()
@@ -126,27 +162,22 @@ class FeishuSheetReader:
         判断设备是否可租用
         
         根据飞书表格实际结构：
-        - 空白/None/空字符串：设备在仓库中，可出租状态（表格中显示为白色格子）
+        - 空白/None/空字符串：设备可租用（白色格子）
         - 数字1：设备在物流中（寄出），不可租赁
-        - 数字2：设备在客户手中，产生租赁，不可租赁
+        - 数字2：设备在客户手中（租赁中），不可租赁
         - 数字3：设备在物流中（寄回），不可租赁
         
-        重要说明：
-        - 不需要状态继承逻辑，每个月的数据是独立的
-        - 白色格子（None）直接表示可租用，无需继承前面的状态
-        - 表格结构：第一行是月份标识，第二行是列名，第三行开始是设备数据
-        
-        Args:
+        参数：
             status_value: 表格中的状态值
             
-        Returns:
+        返回：
             bool: True表示可租用，False表示不可租用
         """
-        # 修复：空白/None/空字符串都表示可租用（设备在仓库中）
+        # 空白/None/空字符串都表示可租用
         if status_value is None or status_value == '' or status_value == 'None':
             return True
         
-        # 数字表示设备正在使用中（物流或租赁中）
+        # 数字表示设备正在使用中
         try:
             status_num = int(str(status_value).strip())
             # 任何数字状态都表示设备不可用

@@ -22,6 +22,13 @@
 - **requests**：HTTP请求
 - **飞书开放平台API**：集成飞书知识库
 
+### 代码注释
+所有核心源代码文件已添加详细的中文注释，包括：
+- 模块级注释：说明模块功能、架构设计、工作流程
+- 类级注释：说明类的职责、属性、方法
+- 函数级注释：说明参数、返回值、算法逻辑
+- 关键代码注释：解释复杂逻辑和设计决策
+
 ---
 
 ## 二、项目架构
@@ -31,10 +38,17 @@
 XianyuAutoAgent/
 ├── src/                        # 源代码主目录
 │   ├── bot/                    # 核心机器人模块
+│   │   └── xianyu_bot.py       # WebSocket主循环（已添加详细注释）
 │   ├── agents/                 # 多专家Agent系统
+│   │   ├── xianyu_agent.py     # 多专家Agent架构（已添加详细注释）
+│   │   ├── rental_consultant_agent.py  # 租赁顾问Agent（已添加详细注释）
+│   │   ├── smart_reply_manager.py      # 智能回复管理器（已添加详细注释）
+│   │   └── intent_analyzer.py          # 意图分析器（已添加详细注释）
 │   ├── core/                   # 核心基础模块
-│   ├── utils/                  # 工具模块
+│   │   └── context_manager.py  # 对话上下文管理（已添加详细注释）
 │   ├── knowledge/              # 知识库模块
+│   │   └── feishu_sheet_reader.py  # 飞书表格读取器（已添加详细注释）
+│   ├── utils/                  # 工具模块
 │   ├── crawler/                # 爬虫模块
 │   ├── analysis/               # 分析模块
 │   └── prompts/                # 提示词模板
@@ -73,7 +87,7 @@ XianyuAutoAgent/
 3. **正式分诊**（IntentRouter）：先做基础检查（关键词匹配），不行再做深度检查（LLM分析）
 4. **全科医生**（DefaultAgent）：如果其他专家都不确定，就由全科医生处理
 
-**代码位置**：`xianyu_bot_components/agents/xianyu_agent.py`，第251-302行
+**代码位置**：`src/agents/xianyu_agent.py`，IntentRouter类
 
 **核心逻辑**：
 ```python
